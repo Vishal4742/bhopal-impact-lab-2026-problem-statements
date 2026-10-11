@@ -20,7 +20,11 @@ Pick one track with your team at the opening.
 ## Key times
 
 - Build starts at 10:15 AM. Code you submit must be written after that.
-- Submissions close at 5:00 PM. The submission link will be shared in the group.
+- Submissions close at 5:00 PM.
+
+**Submit here:** https://docs.google.com/forms/d/e/1FAIpQLSfKNgfbYvYMI6xHgS0ir4kBhZWspGp37hIzbt9PhB-ZfK70vQ/viewform
+
+Submit your public GitHub repo link and, if you have one, your 2-minute screen recording.
 
 ## What's in this repo
 
