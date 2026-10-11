@@ -1,0 +1,454 @@
+year,festival,site,water_body,phase,parameter,value,unit_assumed,flag,value_as_printed,parameter_as_printed,site_as_printed,site_match_confidence,source_page
+2025,Ganesh,Khatlapura ghat,Lower Lake,pre,pH,7.34,,,7.34,pH,"Khatlapura murti visarjan ghat at lower lake, Bhopal",high,28
+2025,Ganesh,Khatlapura ghat,Lower Lake,during,pH,8.0,,,8,pH,"Khatlapura murti visarjan ghat at lower lake, Bhopal",high,28
+2025,Ganesh,Khatlapura ghat,Lower Lake,after,pH,7.76,,,7.76,pH,"Khatlapura murti visarjan ghat at lower lake, Bhopal",high,28
+2025,Ganesh,Khatlapura ghat,Lower Lake,pre,Total solids,310.0,mg/l,,310,Total Solids,"Khatlapura murti visarjan ghat at lower lake, Bhopal",high,28
+2025,Ganesh,Khatlapura ghat,Lower Lake,during,Total solids,410.0,mg/l,,410,Total Solids,"Khatlapura murti visarjan ghat at lower lake, Bhopal",high,28
+2025,Ganesh,Khatlapura ghat,Lower Lake,after,Total solids,404.0,mg/l,,404,Total Solids,"Khatlapura murti visarjan ghat at lower lake, Bhopal",high,28
+2025,Ganesh,Khatlapura ghat,Lower Lake,pre,Dissolved solids,278.0,mg/l,,278,Dissolved Solids,"Khatlapura murti visarjan ghat at lower lake, Bhopal",high,28
+2025,Ganesh,Khatlapura ghat,Lower Lake,during,Dissolved solids,318.0,mg/l,,318,Dissolved Solids,"Khatlapura murti visarjan ghat at lower lake, Bhopal",high,28
+2025,Ganesh,Khatlapura ghat,Lower Lake,after,Dissolved solids,318.0,mg/l,,318,Dissolved Solids,"Khatlapura murti visarjan ghat at lower lake, Bhopal",high,28
+2025,Ganesh,Khatlapura ghat,Lower Lake,pre,Suspended solids,32.0,mg/l,,32,suspended-solids,"Khatlapura murti visarjan ghat at lower lake, Bhopal",high,28
+2025,Ganesh,Khatlapura ghat,Lower Lake,during,Suspended solids,92.0,mg/l,,92,suspended-solids,"Khatlapura murti visarjan ghat at lower lake, Bhopal",high,28
+2025,Ganesh,Khatlapura ghat,Lower Lake,after,Suspended solids,86.0,mg/l,,86,suspended-solids,"Khatlapura murti visarjan ghat at lower lake, Bhopal",high,28
+2025,Ganesh,Khatlapura ghat,Lower Lake,pre,Dissolved oxygen,7.3,mg/l,,7.3,D.Oxygen,"Khatlapura murti visarjan ghat at lower lake, Bhopal",high,28
+2025,Ganesh,Khatlapura ghat,Lower Lake,during,Dissolved oxygen,6.0,mg/l,,6,D.Oxygen,"Khatlapura murti visarjan ghat at lower lake, Bhopal",high,28
+2025,Ganesh,Khatlapura ghat,Lower Lake,after,Dissolved oxygen,6.5,mg/l,,6.5,D.Oxygen,"Khatlapura murti visarjan ghat at lower lake, Bhopal",high,28
+2025,Ganesh,Khatlapura ghat,Lower Lake,pre,BOD,4.4,mg/l,,4.4,BOD,"Khatlapura murti visarjan ghat at lower lake, Bhopal",high,28
+2025,Ganesh,Khatlapura ghat,Lower Lake,during,BOD,5.4,mg/l,,5.4,BOD,"Khatlapura murti visarjan ghat at lower lake, Bhopal",high,28
+2025,Ganesh,Khatlapura ghat,Lower Lake,after,BOD,5.2,mg/l,,5.2,BOD,"Khatlapura murti visarjan ghat at lower lake, Bhopal",high,28
+2025,Ganesh,Khatlapura ghat,Lower Lake,pre,COD,19.6,mg/l,,19.6,COD,"Khatlapura murti visarjan ghat at lower lake, Bhopal",high,28
+2025,Ganesh,Khatlapura ghat,Lower Lake,during,COD,38.4,mg/l,,38.4,COD,"Khatlapura murti visarjan ghat at lower lake, Bhopal",high,28
+2025,Ganesh,Khatlapura ghat,Lower Lake,after,COD,28.8,mg/l,,28.8,COD,"Khatlapura murti visarjan ghat at lower lake, Bhopal",high,28
+2025,Ganesh,Khatlapura ghat,Lower Lake,pre,Turbidity,6.1,NTU,,6.1,Turbidity,"Khatlapura murti visarjan ghat at lower lake, Bhopal",high,28
+2025,Ganesh,Khatlapura ghat,Lower Lake,during,Turbidity,8.8,NTU,,8.8,Turbidity,"Khatlapura murti visarjan ghat at lower lake, Bhopal",high,28
+2025,Ganesh,Khatlapura ghat,Lower Lake,after,Turbidity,8.2,NTU,,8.2,Turbidity,"Khatlapura murti visarjan ghat at lower lake, Bhopal",high,28
+2025,Ganesh,Khatlapura ghat,Lower Lake,pre,Conductivity,447.8,µS/cm,,447.8,Conductivity,"Khatlapura murti visarjan ghat at lower lake, Bhopal",high,28
+2025,Ganesh,Khatlapura ghat,Lower Lake,during,Conductivity,483.1,µS/cm,,483.1,Conductivity,"Khatlapura murti visarjan ghat at lower lake, Bhopal",high,28
+2025,Ganesh,Khatlapura ghat,Lower Lake,after,Conductivity,470.0,µS/cm,,470,Conductivity,"Khatlapura murti visarjan ghat at lower lake, Bhopal",high,28
+2025,Ganesh,Khatlapura ghat,Lower Lake,pre,Chromium,0.03,mg/l,,0.03,Chromium,"Khatlapura murti visarjan ghat at lower lake, Bhopal",high,28
+2025,Ganesh,Khatlapura ghat,Lower Lake,during,Chromium,0.03,mg/l,,0.03,Chromium,"Khatlapura murti visarjan ghat at lower lake, Bhopal",high,28
+2025,Ganesh,Khatlapura ghat,Lower Lake,after,Chromium,0.03,mg/l,,0.03,Chromium,"Khatlapura murti visarjan ghat at lower lake, Bhopal",high,28
+2025,Ganesh,Khatlapura ghat,Lower Lake,pre,Lead,0.031,mg/l,,0.031,Lead,"Khatlapura murti visarjan ghat at lower lake, Bhopal",high,28
+2025,Ganesh,Khatlapura ghat,Lower Lake,during,Lead,0.031,mg/l,,0.031,Lead,"Khatlapura murti visarjan ghat at lower lake, Bhopal",high,28
+2025,Ganesh,Khatlapura ghat,Lower Lake,after,Lead,0.031,mg/l,,0.031,Lead,"Khatlapura murti visarjan ghat at lower lake, Bhopal",high,28
+2025,Ganesh,Khatlapura ghat,Lower Lake,pre,Zinc,0.082,mg/l,,0.082,Zinc,"Khatlapura murti visarjan ghat at lower lake, Bhopal",high,28
+2025,Ganesh,Khatlapura ghat,Lower Lake,during,Zinc,0.013,mg/l,,0.013,Zinc,"Khatlapura murti visarjan ghat at lower lake, Bhopal",high,28
+2025,Ganesh,Khatlapura ghat,Lower Lake,after,Zinc,0.04,mg/l,,0.04,Zinc,"Khatlapura murti visarjan ghat at lower lake, Bhopal",high,28
+2025,Ganesh,Khatlapura ghat,Lower Lake,pre,Copper,0.138,mg/l,,0.138,Copper,"Khatlapura murti visarjan ghat at lower lake, Bhopal",high,28
+2025,Ganesh,Khatlapura ghat,Lower Lake,during,Copper,0.018,mg/l,,0.018,Copper,"Khatlapura murti visarjan ghat at lower lake, Bhopal",high,28
+2025,Ganesh,Khatlapura ghat,Lower Lake,after,Copper,0.08,mg/l,,0.08,Copper,"Khatlapura murti visarjan ghat at lower lake, Bhopal",high,28
+2025,Ganesh,Bairagarh (Sant Hirdaram) kund,Upper Lake,pre,pH,,,*,*,pH,"Sant Hirdaram Visarjankund, Bairagarh, Bhopal",high,28
+2025,Ganesh,Bairagarh (Sant Hirdaram) kund,Upper Lake,during,pH,7.36,,,7.36,pH,"Sant Hirdaram Visarjankund, Bairagarh, Bhopal",high,28
+2025,Ganesh,Bairagarh (Sant Hirdaram) kund,Upper Lake,after,pH,,,**,**,pH,"Sant Hirdaram Visarjankund, Bairagarh, Bhopal",high,28
+2025,Ganesh,Bairagarh (Sant Hirdaram) kund,Upper Lake,pre,Total solids,,mg/l,not sampled,,Total Solids,"Sant Hirdaram Visarjankund, Bairagarh, Bhopal",high,28
+2025,Ganesh,Bairagarh (Sant Hirdaram) kund,Upper Lake,during,Total solids,756.0,mg/l,,756,Total Solids,"Sant Hirdaram Visarjankund, Bairagarh, Bhopal",high,28
+2025,Ganesh,Bairagarh (Sant Hirdaram) kund,Upper Lake,after,Total solids,,mg/l,not sampled,,Total Solids,"Sant Hirdaram Visarjankund, Bairagarh, Bhopal",high,28
+2025,Ganesh,Bairagarh (Sant Hirdaram) kund,Upper Lake,pre,Dissolved solids,,mg/l,not sampled,,Dissolved Solids,"Sant Hirdaram Visarjankund, Bairagarh, Bhopal",high,28
+2025,Ganesh,Bairagarh (Sant Hirdaram) kund,Upper Lake,during,Dissolved solids,708.0,mg/l,,708,Dissolved Solids,"Sant Hirdaram Visarjankund, Bairagarh, Bhopal",high,28
+2025,Ganesh,Bairagarh (Sant Hirdaram) kund,Upper Lake,after,Dissolved solids,,mg/l,not sampled,,Dissolved Solids,"Sant Hirdaram Visarjankund, Bairagarh, Bhopal",high,28
+2025,Ganesh,Bairagarh (Sant Hirdaram) kund,Upper Lake,pre,Suspended solids,,mg/l,not sampled,,suspended-solids,"Sant Hirdaram Visarjankund, Bairagarh, Bhopal",high,28
+2025,Ganesh,Bairagarh (Sant Hirdaram) kund,Upper Lake,during,Suspended solids,48.0,mg/l,,48,suspended-solids,"Sant Hirdaram Visarjankund, Bairagarh, Bhopal",high,28
+2025,Ganesh,Bairagarh (Sant Hirdaram) kund,Upper Lake,after,Suspended solids,,mg/l,not sampled,,suspended-solids,"Sant Hirdaram Visarjankund, Bairagarh, Bhopal",high,28
+2025,Ganesh,Bairagarh (Sant Hirdaram) kund,Upper Lake,pre,Dissolved oxygen,,mg/l,not sampled,,D.Oxygen,"Sant Hirdaram Visarjankund, Bairagarh, Bhopal",high,28
+2025,Ganesh,Bairagarh (Sant Hirdaram) kund,Upper Lake,during,Dissolved oxygen,0.0,mg/l,,0,D.Oxygen,"Sant Hirdaram Visarjankund, Bairagarh, Bhopal",high,28
+2025,Ganesh,Bairagarh (Sant Hirdaram) kund,Upper Lake,after,Dissolved oxygen,,mg/l,not sampled,,D.Oxygen,"Sant Hirdaram Visarjankund, Bairagarh, Bhopal",high,28
+2025,Ganesh,Bairagarh (Sant Hirdaram) kund,Upper Lake,pre,BOD,,mg/l,not sampled,,BOD,"Sant Hirdaram Visarjankund, Bairagarh, Bhopal",high,28
+2025,Ganesh,Bairagarh (Sant Hirdaram) kund,Upper Lake,during,BOD,8.0,mg/l,,8,BOD,"Sant Hirdaram Visarjankund, Bairagarh, Bhopal",high,28
+2025,Ganesh,Bairagarh (Sant Hirdaram) kund,Upper Lake,after,BOD,,mg/l,not sampled,,BOD,"Sant Hirdaram Visarjankund, Bairagarh, Bhopal",high,28
+2025,Ganesh,Bairagarh (Sant Hirdaram) kund,Upper Lake,pre,COD,,mg/l,not sampled,,COD,"Sant Hirdaram Visarjankund, Bairagarh, Bhopal",high,28
+2025,Ganesh,Bairagarh (Sant Hirdaram) kund,Upper Lake,during,COD,39.2,mg/l,,39.2,COD,"Sant Hirdaram Visarjankund, Bairagarh, Bhopal",high,28
+2025,Ganesh,Bairagarh (Sant Hirdaram) kund,Upper Lake,after,COD,,mg/l,not sampled,,COD,"Sant Hirdaram Visarjankund, Bairagarh, Bhopal",high,28
+2025,Ganesh,Bairagarh (Sant Hirdaram) kund,Upper Lake,pre,Turbidity,,NTU,not sampled,,Turbidity,"Sant Hirdaram Visarjankund, Bairagarh, Bhopal",high,28
+2025,Ganesh,Bairagarh (Sant Hirdaram) kund,Upper Lake,during,Turbidity,15.0,NTU,,15,Turbidity,"Sant Hirdaram Visarjankund, Bairagarh, Bhopal",high,28
+2025,Ganesh,Bairagarh (Sant Hirdaram) kund,Upper Lake,after,Turbidity,,NTU,not sampled,,Turbidity,"Sant Hirdaram Visarjankund, Bairagarh, Bhopal",high,28
+2025,Ganesh,Bairagarh (Sant Hirdaram) kund,Upper Lake,pre,Conductivity,,µS/cm,not sampled,,Conductivity,"Sant Hirdaram Visarjankund, Bairagarh, Bhopal",high,28
+2025,Ganesh,Bairagarh (Sant Hirdaram) kund,Upper Lake,during,Conductivity,1045.0,µS/cm,,1045,Conductivity,"Sant Hirdaram Visarjankund, Bairagarh, Bhopal",high,28
+2025,Ganesh,Bairagarh (Sant Hirdaram) kund,Upper Lake,after,Conductivity,,µS/cm,not sampled,,Conductivity,"Sant Hirdaram Visarjankund, Bairagarh, Bhopal",high,28
+2025,Ganesh,Bairagarh (Sant Hirdaram) kund,Upper Lake,pre,Chromium,,mg/l,not sampled,,Chromium,"Sant Hirdaram Visarjankund, Bairagarh, Bhopal",high,28
+2025,Ganesh,Bairagarh (Sant Hirdaram) kund,Upper Lake,during,Chromium,0.03,mg/l,,0.03,Chromium,"Sant Hirdaram Visarjankund, Bairagarh, Bhopal",high,28
+2025,Ganesh,Bairagarh (Sant Hirdaram) kund,Upper Lake,after,Chromium,,mg/l,not sampled,,Chromium,"Sant Hirdaram Visarjankund, Bairagarh, Bhopal",high,28
+2025,Ganesh,Bairagarh (Sant Hirdaram) kund,Upper Lake,pre,Lead,,mg/l,not sampled,,Lead,"Sant Hirdaram Visarjankund, Bairagarh, Bhopal",high,28
+2025,Ganesh,Bairagarh (Sant Hirdaram) kund,Upper Lake,during,Lead,0.031,mg/l,,0.031,Lead,"Sant Hirdaram Visarjankund, Bairagarh, Bhopal",high,28
+2025,Ganesh,Bairagarh (Sant Hirdaram) kund,Upper Lake,after,Lead,,mg/l,not sampled,,Lead,"Sant Hirdaram Visarjankund, Bairagarh, Bhopal",high,28
+2025,Ganesh,Bairagarh (Sant Hirdaram) kund,Upper Lake,pre,Zinc,,mg/l,not sampled,,Zinc,"Sant Hirdaram Visarjankund, Bairagarh, Bhopal",high,28
+2025,Ganesh,Bairagarh (Sant Hirdaram) kund,Upper Lake,during,Zinc,0.074,mg/l,,0.074,Zinc,"Sant Hirdaram Visarjankund, Bairagarh, Bhopal",high,28
+2025,Ganesh,Bairagarh (Sant Hirdaram) kund,Upper Lake,after,Zinc,,mg/l,not sampled,,Zinc,"Sant Hirdaram Visarjankund, Bairagarh, Bhopal",high,28
+2025,Ganesh,Bairagarh (Sant Hirdaram) kund,Upper Lake,pre,Copper,,mg/l,not sampled,,Copper,"Sant Hirdaram Visarjankund, Bairagarh, Bhopal",high,28
+2025,Ganesh,Bairagarh (Sant Hirdaram) kund,Upper Lake,during,Copper,0.125,mg/l,,0.125,Copper,"Sant Hirdaram Visarjankund, Bairagarh, Bhopal",high,28
+2025,Ganesh,Bairagarh (Sant Hirdaram) kund,Upper Lake,after,Copper,,mg/l,not sampled,,Copper,"Sant Hirdaram Visarjankund, Bairagarh, Bhopal",high,28
+2025,Ganesh,Prempura ghat,Upper Lake,pre,pH,7.41,,,7.41,pH,"Prempura Visarjanghat, Bhopal",high,28
+2025,Ganesh,Prempura ghat,Upper Lake,during,pH,8.01,,,8.01,pH,"Prempura Visarjanghat, Bhopal",high,28
+2025,Ganesh,Prempura ghat,Upper Lake,after,pH,7.92,,,7.92,pH,"Prempura Visarjanghat, Bhopal",high,28
+2025,Ganesh,Prempura ghat,Upper Lake,pre,Total solids,308.0,mg/l,,308,Total Solids,"Prempura Visarjanghat, Bhopal",high,28
+2025,Ganesh,Prempura ghat,Upper Lake,during,Total solids,340.0,mg/l,,340,Total Solids,"Prempura Visarjanghat, Bhopal",high,28
+2025,Ganesh,Prempura ghat,Upper Lake,after,Total solids,324.0,mg/l,,324,Total Solids,"Prempura Visarjanghat, Bhopal",high,28
+2025,Ganesh,Prempura ghat,Upper Lake,pre,Dissolved solids,240.0,mg/l,,240,Dissolved Solids,"Prempura Visarjanghat, Bhopal",high,28
+2025,Ganesh,Prempura ghat,Upper Lake,during,Dissolved solids,238.0,mg/l,,238,Dissolved Solids,"Prempura Visarjanghat, Bhopal",high,28
+2025,Ganesh,Prempura ghat,Upper Lake,after,Dissolved solids,242.0,mg/l,,242,Dissolved Solids,"Prempura Visarjanghat, Bhopal",high,28
+2025,Ganesh,Prempura ghat,Upper Lake,pre,Suspended solids,68.0,mg/l,,68,suspended-solids,"Prempura Visarjanghat, Bhopal",high,28
+2025,Ganesh,Prempura ghat,Upper Lake,during,Suspended solids,102.0,mg/l,,102,suspended-solids,"Prempura Visarjanghat, Bhopal",high,28
+2025,Ganesh,Prempura ghat,Upper Lake,after,Suspended solids,82.0,mg/l,,82,suspended-solids,"Prempura Visarjanghat, Bhopal",high,28
+2025,Ganesh,Prempura ghat,Upper Lake,pre,Dissolved oxygen,6.5,mg/l,,6.5,D.Oxygen,"Prempura Visarjanghat, Bhopal",high,28
+2025,Ganesh,Prempura ghat,Upper Lake,during,Dissolved oxygen,5.6,mg/l,,5.6,D.Oxygen,"Prempura Visarjanghat, Bhopal",high,28
+2025,Ganesh,Prempura ghat,Upper Lake,after,Dissolved oxygen,6.0,mg/l,,6,D.Oxygen,"Prempura Visarjanghat, Bhopal",high,28
+2025,Ganesh,Prempura ghat,Upper Lake,pre,BOD,4.8,mg/l,,4.8,BOD,"Prempura Visarjanghat, Bhopal",high,28
+2025,Ganesh,Prempura ghat,Upper Lake,during,BOD,4.8,mg/l,,4.8,BOD,"Prempura Visarjanghat, Bhopal",high,28
+2025,Ganesh,Prempura ghat,Upper Lake,after,BOD,3.0,mg/l,,3,BOD,"Prempura Visarjanghat, Bhopal",high,28
+2025,Ganesh,Prempura ghat,Upper Lake,pre,COD,29.4,mg/l,,29.4,COD,"Prempura Visarjanghat, Bhopal",high,28
+2025,Ganesh,Prempura ghat,Upper Lake,during,COD,38.4,mg/l,,38.4,COD,"Prempura Visarjanghat, Bhopal",high,28
+2025,Ganesh,Prempura ghat,Upper Lake,after,COD,39.2,mg/l,,39.2,COD,"Prempura Visarjanghat, Bhopal",high,28
+2025,Ganesh,Prempura ghat,Upper Lake,pre,Turbidity,10.5,NTU,,10.5,Turbidity,"Prempura Visarjanghat, Bhopal",high,28
+2025,Ganesh,Prempura ghat,Upper Lake,during,Turbidity,20.4,NTU,,20.4,Turbidity,"Prempura Visarjanghat, Bhopal",high,28
+2025,Ganesh,Prempura ghat,Upper Lake,after,Turbidity,15.2,NTU,,15.2,Turbidity,"Prempura Visarjanghat, Bhopal",high,28
+2025,Ganesh,Prempura ghat,Upper Lake,pre,Conductivity,391.0,µS/cm,,391,Conductivity,"Prempura Visarjanghat, Bhopal",high,28
+2025,Ganesh,Prempura ghat,Upper Lake,during,Conductivity,402.0,µS/cm,,402,Conductivity,"Prempura Visarjanghat, Bhopal",high,28
+2025,Ganesh,Prempura ghat,Upper Lake,after,Conductivity,415.0,µS/cm,,415,Conductivity,"Prempura Visarjanghat, Bhopal",high,28
+2025,Ganesh,Prempura ghat,Upper Lake,pre,Chromium,0.03,mg/l,,0.03,Chromium,"Prempura Visarjanghat, Bhopal",high,28
+2025,Ganesh,Prempura ghat,Upper Lake,during,Chromium,0.03,mg/l,,0.03,Chromium,"Prempura Visarjanghat, Bhopal",high,28
+2025,Ganesh,Prempura ghat,Upper Lake,after,Chromium,0.03,mg/l,,0.03,Chromium,"Prempura Visarjanghat, Bhopal",high,28
+2025,Ganesh,Prempura ghat,Upper Lake,pre,Lead,0.031,mg/l,,0.031,Lead,"Prempura Visarjanghat, Bhopal",high,28
+2025,Ganesh,Prempura ghat,Upper Lake,during,Lead,0.031,mg/l,,0.031,Lead,"Prempura Visarjanghat, Bhopal",high,28
+2025,Ganesh,Prempura ghat,Upper Lake,after,Lead,0.031,mg/l,,0.031,Lead,"Prempura Visarjanghat, Bhopal",high,28
+2025,Ganesh,Prempura ghat,Upper Lake,pre,Zinc,0.03,mg/l,,0.03,Zinc,"Prempura Visarjanghat, Bhopal",high,28
+2025,Ganesh,Prempura ghat,Upper Lake,during,Zinc,0.009,mg/l,,0.009,Zinc,"Prempura Visarjanghat, Bhopal",high,28
+2025,Ganesh,Prempura ghat,Upper Lake,after,Zinc,0.06,mg/l,,0.06,Zinc,"Prempura Visarjanghat, Bhopal",high,28
+2025,Ganesh,Prempura ghat,Upper Lake,pre,Copper,0.133,mg/l,,0.133,Copper,"Prempura Visarjanghat, Bhopal",high,28
+2025,Ganesh,Prempura ghat,Upper Lake,during,Copper,0.018,mg/l,,0.018,Copper,"Prempura Visarjanghat, Bhopal",high,28
+2025,Ganesh,Prempura ghat,Upper Lake,after,Copper,0.13,mg/l,,0.13,Copper,"Prempura Visarjanghat, Bhopal",high,28
+2025,Ganesh,Rani Kamlapati ghat / Kamla Park kund,Lower Lake (as printed in Durga tables),pre,pH,7.46,,,7.46,pH,"Rani kamlapati,kamla park,murti visarjan kund, Bhopal",medium,29
+2025,Ganesh,Rani Kamlapati ghat / Kamla Park kund,Lower Lake (as printed in Durga tables),during,pH,7.7,,,7.7,pH,"Rani kamlapati,kamla park,murti visarjan kund, Bhopal",medium,29
+2025,Ganesh,Rani Kamlapati ghat / Kamla Park kund,Lower Lake (as printed in Durga tables),after,pH,7.62,,,7.62,pH,"Rani kamlapati,kamla park,murti visarjan kund, Bhopal",medium,29
+2025,Ganesh,Rani Kamlapati ghat / Kamla Park kund,Lower Lake (as printed in Durga tables),pre,Total solids,338.0,mg/l,,338,Total Solids,"Rani kamlapati,kamla park,murti visarjan kund, Bhopal",medium,29
+2025,Ganesh,Rani Kamlapati ghat / Kamla Park kund,Lower Lake (as printed in Durga tables),during,Total solids,398.0,mg/l,,398,Total Solids,"Rani kamlapati,kamla park,murti visarjan kund, Bhopal",medium,29
+2025,Ganesh,Rani Kamlapati ghat / Kamla Park kund,Lower Lake (as printed in Durga tables),after,Total solids,388.0,mg/l,,388,Total Solids,"Rani kamlapati,kamla park,murti visarjan kund, Bhopal",medium,29
+2025,Ganesh,Rani Kamlapati ghat / Kamla Park kund,Lower Lake (as printed in Durga tables),pre,Dissolved solids,294.0,mg/l,,294,Dissolved Solids,"Rani kamlapati,kamla park,murti visarjan kund, Bhopal",medium,29
+2025,Ganesh,Rani Kamlapati ghat / Kamla Park kund,Lower Lake (as printed in Durga tables),during,Dissolved solids,306.0,mg/l,,306,Dissolved Solids,"Rani kamlapati,kamla park,murti visarjan kund, Bhopal",medium,29
+2025,Ganesh,Rani Kamlapati ghat / Kamla Park kund,Lower Lake (as printed in Durga tables),after,Dissolved solids,300.0,mg/l,,300,Dissolved Solids,"Rani kamlapati,kamla park,murti visarjan kund, Bhopal",medium,29
+2025,Ganesh,Rani Kamlapati ghat / Kamla Park kund,Lower Lake (as printed in Durga tables),pre,Suspended solids,44.0,mg/l,,44,suspended-solids,"Rani kamlapati,kamla park,murti visarjan kund, Bhopal",medium,29
+2025,Ganesh,Rani Kamlapati ghat / Kamla Park kund,Lower Lake (as printed in Durga tables),during,Suspended solids,92.0,mg/l,,92,suspended-solids,"Rani kamlapati,kamla park,murti visarjan kund, Bhopal",medium,29
+2025,Ganesh,Rani Kamlapati ghat / Kamla Park kund,Lower Lake (as printed in Durga tables),after,Suspended solids,88.0,mg/l,,88,suspended-solids,"Rani kamlapati,kamla park,murti visarjan kund, Bhopal",medium,29
+2025,Ganesh,Rani Kamlapati ghat / Kamla Park kund,Lower Lake (as printed in Durga tables),pre,Dissolved oxygen,6.9,mg/l,,6.9,D.Oxygen,"Rani kamlapati,kamla park,murti visarjan kund, Bhopal",medium,29
+2025,Ganesh,Rani Kamlapati ghat / Kamla Park kund,Lower Lake (as printed in Durga tables),during,Dissolved oxygen,6.9,mg/l,,6.9,D.Oxygen,"Rani kamlapati,kamla park,murti visarjan kund, Bhopal",medium,29
+2025,Ganesh,Rani Kamlapati ghat / Kamla Park kund,Lower Lake (as printed in Durga tables),after,Dissolved oxygen,6.2,mg/l,,6.2,D.Oxygen,"Rani kamlapati,kamla park,murti visarjan kund, Bhopal",medium,29
+2025,Ganesh,Rani Kamlapati ghat / Kamla Park kund,Lower Lake (as printed in Durga tables),pre,BOD,3.8,mg/l,,3.8,BOD,"Rani kamlapati,kamla park,murti visarjan kund, Bhopal",medium,29
+2025,Ganesh,Rani Kamlapati ghat / Kamla Park kund,Lower Lake (as printed in Durga tables),during,BOD,6.9,mg/l,,6.9,BOD,"Rani kamlapati,kamla park,murti visarjan kund, Bhopal",medium,29
+2025,Ganesh,Rani Kamlapati ghat / Kamla Park kund,Lower Lake (as printed in Durga tables),after,BOD,4.8,mg/l,,4.8,BOD,"Rani kamlapati,kamla park,murti visarjan kund, Bhopal",medium,29
+2025,Ganesh,Rani Kamlapati ghat / Kamla Park kund,Lower Lake (as printed in Durga tables),pre,COD,19.6,mg/l,,19.6,COD,"Rani kamlapati,kamla park,murti visarjan kund, Bhopal",medium,29
+2025,Ganesh,Rani Kamlapati ghat / Kamla Park kund,Lower Lake (as printed in Durga tables),during,COD,38.4,mg/l,,38.4,COD,"Rani kamlapati,kamla park,murti visarjan kund, Bhopal",medium,29
+2025,Ganesh,Rani Kamlapati ghat / Kamla Park kund,Lower Lake (as printed in Durga tables),after,COD,28.8,mg/l,,28.8,COD,"Rani kamlapati,kamla park,murti visarjan kund, Bhopal",medium,29
+2025,Ganesh,Rani Kamlapati ghat / Kamla Park kund,Lower Lake (as printed in Durga tables),pre,Turbidity,11.6,NTU,,11.6,Turbidity,"Rani kamlapati,kamla park,murti visarjan kund, Bhopal",medium,29
+2025,Ganesh,Rani Kamlapati ghat / Kamla Park kund,Lower Lake (as printed in Durga tables),during,Turbidity,14.1,NTU,,14.1,Turbidity,"Rani kamlapati,kamla park,murti visarjan kund, Bhopal",medium,29
+2025,Ganesh,Rani Kamlapati ghat / Kamla Park kund,Lower Lake (as printed in Durga tables),after,Turbidity,10.2,NTU,,10.2,Turbidity,"Rani kamlapati,kamla park,murti visarjan kund, Bhopal",medium,29
+2025,Ganesh,Rani Kamlapati ghat / Kamla Park kund,Lower Lake (as printed in Durga tables),pre,Conductivity,420.0,µS/cm,,420,Conductivity,"Rani kamlapati,kamla park,murti visarjan kund, Bhopal",medium,29
+2025,Ganesh,Rani Kamlapati ghat / Kamla Park kund,Lower Lake (as printed in Durga tables),during,Conductivity,454.0,µS/cm,,454,Conductivity,"Rani kamlapati,kamla park,murti visarjan kund, Bhopal",medium,29
+2025,Ganesh,Rani Kamlapati ghat / Kamla Park kund,Lower Lake (as printed in Durga tables),after,Conductivity,438.0,µS/cm,,438,Conductivity,"Rani kamlapati,kamla park,murti visarjan kund, Bhopal",medium,29
+2025,Ganesh,Rani Kamlapati ghat / Kamla Park kund,Lower Lake (as printed in Durga tables),pre,Chromium,0.03,mg/l,,0.03,Chromium,"Rani kamlapati,kamla park,murti visarjan kund, Bhopal",medium,29
+2025,Ganesh,Rani Kamlapati ghat / Kamla Park kund,Lower Lake (as printed in Durga tables),during,Chromium,0.03,mg/l,,0.03,Chromium,"Rani kamlapati,kamla park,murti visarjan kund, Bhopal",medium,29
+2025,Ganesh,Rani Kamlapati ghat / Kamla Park kund,Lower Lake (as printed in Durga tables),after,Chromium,0.03,mg/l,,0.03,Chromium,"Rani kamlapati,kamla park,murti visarjan kund, Bhopal",medium,29
+2025,Ganesh,Rani Kamlapati ghat / Kamla Park kund,Lower Lake (as printed in Durga tables),pre,Lead,0.031,mg/l,,0.031,Lead,"Rani kamlapati,kamla park,murti visarjan kund, Bhopal",medium,29
+2025,Ganesh,Rani Kamlapati ghat / Kamla Park kund,Lower Lake (as printed in Durga tables),during,Lead,0.031,mg/l,,0.031,Lead,"Rani kamlapati,kamla park,murti visarjan kund, Bhopal",medium,29
+2025,Ganesh,Rani Kamlapati ghat / Kamla Park kund,Lower Lake (as printed in Durga tables),after,Lead,0.031,mg/l,,0.031,Lead,"Rani kamlapati,kamla park,murti visarjan kund, Bhopal",medium,29
+2025,Ganesh,Rani Kamlapati ghat / Kamla Park kund,Lower Lake (as printed in Durga tables),pre,Zinc,0.014,mg/l,,0.014,Zinc,"Rani kamlapati,kamla park,murti visarjan kund, Bhopal",medium,29
+2025,Ganesh,Rani Kamlapati ghat / Kamla Park kund,Lower Lake (as printed in Durga tables),during,Zinc,0.51,mg/l,,0.51,Zinc,"Rani kamlapati,kamla park,murti visarjan kund, Bhopal",medium,29
+2025,Ganesh,Rani Kamlapati ghat / Kamla Park kund,Lower Lake (as printed in Durga tables),after,Zinc,0.009,mg/l,,0.009,Zinc,"Rani kamlapati,kamla park,murti visarjan kund, Bhopal",medium,29
+2025,Ganesh,Rani Kamlapati ghat / Kamla Park kund,Lower Lake (as printed in Durga tables),pre,Copper,0.102,mg/l,,0.102,Copper,"Rani kamlapati,kamla park,murti visarjan kund, Bhopal",medium,29
+2025,Ganesh,Rani Kamlapati ghat / Kamla Park kund,Lower Lake (as printed in Durga tables),during,Copper,0.018,mg/l,,0.018,Copper,"Rani kamlapati,kamla park,murti visarjan kund, Bhopal",medium,29
+2025,Ganesh,Rani Kamlapati ghat / Kamla Park kund,Lower Lake (as printed in Durga tables),after,Copper,0.018,mg/l,,0.018,Copper,"Rani kamlapati,kamla park,murti visarjan kund, Bhopal",medium,29
+2025,Ganesh,Hathaikheda dam / kund,Hathaikheda dam,pre,pH,8.23,,,8.23,pH,"Hathaikheda visarjan kund, Bhopal",high,29
+2025,Ganesh,Hathaikheda dam / kund,Hathaikheda dam,during,pH,8.71,,,8.71,pH,"Hathaikheda visarjan kund, Bhopal",high,29
+2025,Ganesh,Hathaikheda dam / kund,Hathaikheda dam,after,pH,8.44,,,8.44,pH,"Hathaikheda visarjan kund, Bhopal",high,29
+2025,Ganesh,Hathaikheda dam / kund,Hathaikheda dam,pre,Total solids,310.0,mg/l,,310,Total Solids,"Hathaikheda visarjan kund, Bhopal",high,29
+2025,Ganesh,Hathaikheda dam / kund,Hathaikheda dam,during,Total solids,412.0,mg/l,,412,Total Solids,"Hathaikheda visarjan kund, Bhopal",high,29
+2025,Ganesh,Hathaikheda dam / kund,Hathaikheda dam,after,Total solids,344.0,mg/l,,344,Total Solids,"Hathaikheda visarjan kund, Bhopal",high,29
+2025,Ganesh,Hathaikheda dam / kund,Hathaikheda dam,pre,Dissolved solids,264.0,mg/l,,264,Dissolved Solids,"Hathaikheda visarjan kund, Bhopal",high,29
+2025,Ganesh,Hathaikheda dam / kund,Hathaikheda dam,during,Dissolved solids,332.0,mg/l,,332,Dissolved Solids,"Hathaikheda visarjan kund, Bhopal",high,29
+2025,Ganesh,Hathaikheda dam / kund,Hathaikheda dam,after,Dissolved solids,292.0,mg/l,,292,Dissolved Solids,"Hathaikheda visarjan kund, Bhopal",high,29
+2025,Ganesh,Hathaikheda dam / kund,Hathaikheda dam,pre,Suspended solids,46.0,mg/l,,46,suspended-solids,"Hathaikheda visarjan kund, Bhopal",high,29
+2025,Ganesh,Hathaikheda dam / kund,Hathaikheda dam,during,Suspended solids,80.0,mg/l,,80,suspended-solids,"Hathaikheda visarjan kund, Bhopal",high,29
+2025,Ganesh,Hathaikheda dam / kund,Hathaikheda dam,after,Suspended solids,52.0,mg/l,,52,suspended-solids,"Hathaikheda visarjan kund, Bhopal",high,29
+2025,Ganesh,Hathaikheda dam / kund,Hathaikheda dam,pre,Dissolved oxygen,5.6,mg/l,,5.6,D.Oxygen,"Hathaikheda visarjan kund, Bhopal",high,29
+2025,Ganesh,Hathaikheda dam / kund,Hathaikheda dam,during,Dissolved oxygen,7.0,mg/l,,7,D.Oxygen,"Hathaikheda visarjan kund, Bhopal",high,29
+2025,Ganesh,Hathaikheda dam / kund,Hathaikheda dam,after,Dissolved oxygen,6.4,mg/l,,6.4,D.Oxygen,"Hathaikheda visarjan kund, Bhopal",high,29
+2025,Ganesh,Hathaikheda dam / kund,Hathaikheda dam,pre,BOD,5.2,mg/l,,5.2,BOD,"Hathaikheda visarjan kund, Bhopal",high,29
+2025,Ganesh,Hathaikheda dam / kund,Hathaikheda dam,during,BOD,10.0,mg/l,,10,BOD,"Hathaikheda visarjan kund, Bhopal",high,29
+2025,Ganesh,Hathaikheda dam / kund,Hathaikheda dam,after,BOD,5.2,mg/l,,5.2,BOD,"Hathaikheda visarjan kund, Bhopal",high,29
+2025,Ganesh,Hathaikheda dam / kund,Hathaikheda dam,pre,COD,29.4,mg/l,,29.4,COD,"Hathaikheda visarjan kund, Bhopal",high,29
+2025,Ganesh,Hathaikheda dam / kund,Hathaikheda dam,during,COD,38.4,mg/l,,38.4,COD,"Hathaikheda visarjan kund, Bhopal",high,29
+2025,Ganesh,Hathaikheda dam / kund,Hathaikheda dam,after,COD,29.4,mg/l,,29.4,COD,"Hathaikheda visarjan kund, Bhopal",high,29
+2025,Ganesh,Hathaikheda dam / kund,Hathaikheda dam,pre,Turbidity,11.4,NTU,,11.4,Turbidity,"Hathaikheda visarjan kund, Bhopal",high,29
+2025,Ganesh,Hathaikheda dam / kund,Hathaikheda dam,during,Turbidity,36.7,NTU,,36.7,Turbidity,"Hathaikheda visarjan kund, Bhopal",high,29
+2025,Ganesh,Hathaikheda dam / kund,Hathaikheda dam,after,Turbidity,37.1,NTU,,37.1,Turbidity,"Hathaikheda visarjan kund, Bhopal",high,29
+2025,Ganesh,Hathaikheda dam / kund,Hathaikheda dam,pre,Conductivity,432.0,µS/cm,,432,Conductivity,"Hathaikheda visarjan kund, Bhopal",high,29
+2025,Ganesh,Hathaikheda dam / kund,Hathaikheda dam,during,Conductivity,532.0,µS/cm,,532,Conductivity,"Hathaikheda visarjan kund, Bhopal",high,29
+2025,Ganesh,Hathaikheda dam / kund,Hathaikheda dam,after,Conductivity,432.1,µS/cm,,432.1,Conductivity,"Hathaikheda visarjan kund, Bhopal",high,29
+2025,Ganesh,Hathaikheda dam / kund,Hathaikheda dam,pre,Chromium,0.03,mg/l,,0.03,Chromium,"Hathaikheda visarjan kund, Bhopal",high,29
+2025,Ganesh,Hathaikheda dam / kund,Hathaikheda dam,during,Chromium,0.03,mg/l,,0.03,Chromium,"Hathaikheda visarjan kund, Bhopal",high,29
+2025,Ganesh,Hathaikheda dam / kund,Hathaikheda dam,after,Chromium,0.03,mg/l,,0.03,Chromium,"Hathaikheda visarjan kund, Bhopal",high,29
+2025,Ganesh,Hathaikheda dam / kund,Hathaikheda dam,pre,Lead,0.031,mg/l,,0.031,Lead,"Hathaikheda visarjan kund, Bhopal",high,29
+2025,Ganesh,Hathaikheda dam / kund,Hathaikheda dam,during,Lead,0.031,mg/l,,0.031,Lead,"Hathaikheda visarjan kund, Bhopal",high,29
+2025,Ganesh,Hathaikheda dam / kund,Hathaikheda dam,after,Lead,0.031,mg/l,,0.031,Lead,"Hathaikheda visarjan kund, Bhopal",high,29
+2025,Ganesh,Hathaikheda dam / kund,Hathaikheda dam,pre,Zinc,0.077,mg/l,,0.077,Zinc,"Hathaikheda visarjan kund, Bhopal",high,29
+2025,Ganesh,Hathaikheda dam / kund,Hathaikheda dam,during,Zinc,0.327,mg/l,,0.327,Zinc,"Hathaikheda visarjan kund, Bhopal",high,29
+2025,Ganesh,Hathaikheda dam / kund,Hathaikheda dam,after,Zinc,0.02,mg/l,,0.02,Zinc,"Hathaikheda visarjan kund, Bhopal",high,29
+2025,Ganesh,Hathaikheda dam / kund,Hathaikheda dam,pre,Copper,0.156,mg/l,,0.156,Copper,"Hathaikheda visarjan kund, Bhopal",high,29
+2025,Ganesh,Hathaikheda dam / kund,Hathaikheda dam,during,Copper,0.018,mg/l,,0.018,Copper,"Hathaikheda visarjan kund, Bhopal",high,29
+2025,Ganesh,Hathaikheda dam / kund,Hathaikheda dam,after,Copper,0.03,mg/l,,0.03,Copper,"Hathaikheda visarjan kund, Bhopal",high,29
+2025,Ganesh,Malikhedi kund,Kund,pre,pH,,,*,*,pH,"Maalikhedi visarjan kund, Bhopal",high,29
+2025,Ganesh,Malikhedi kund,Kund,during,pH,7.53,,,7.53,pH,"Maalikhedi visarjan kund, Bhopal",high,29
+2025,Ganesh,Malikhedi kund,Kund,after,pH,,,**,**,pH,"Maalikhedi visarjan kund, Bhopal",high,29
+2025,Ganesh,Malikhedi kund,Kund,pre,Total solids,,mg/l,not sampled,,Total Solids,"Maalikhedi visarjan kund, Bhopal",high,29
+2025,Ganesh,Malikhedi kund,Kund,during,Total solids,312.0,mg/l,,312,Total Solids,"Maalikhedi visarjan kund, Bhopal",high,29
+2025,Ganesh,Malikhedi kund,Kund,after,Total solids,,mg/l,not sampled,,Total Solids,"Maalikhedi visarjan kund, Bhopal",high,29
+2025,Ganesh,Malikhedi kund,Kund,pre,Dissolved solids,,mg/l,not sampled,,Dissolved Solids,"Maalikhedi visarjan kund, Bhopal",high,29
+2025,Ganesh,Malikhedi kund,Kund,during,Dissolved solids,270.0,mg/l,,270,Dissolved Solids,"Maalikhedi visarjan kund, Bhopal",high,29
+2025,Ganesh,Malikhedi kund,Kund,after,Dissolved solids,,mg/l,not sampled,,Dissolved Solids,"Maalikhedi visarjan kund, Bhopal",high,29
+2025,Ganesh,Malikhedi kund,Kund,pre,Suspended solids,,mg/l,not sampled,,suspended-solids,"Maalikhedi visarjan kund, Bhopal",high,29
+2025,Ganesh,Malikhedi kund,Kund,during,Suspended solids,42.0,mg/l,,42,suspended-solids,"Maalikhedi visarjan kund, Bhopal",high,29
+2025,Ganesh,Malikhedi kund,Kund,after,Suspended solids,,mg/l,not sampled,,suspended-solids,"Maalikhedi visarjan kund, Bhopal",high,29
+2025,Ganesh,Malikhedi kund,Kund,pre,Dissolved oxygen,,mg/l,not sampled,,D.Oxygen,"Maalikhedi visarjan kund, Bhopal",high,29
+2025,Ganesh,Malikhedi kund,Kund,during,Dissolved oxygen,0.6,mg/l,,0.6,D.Oxygen,"Maalikhedi visarjan kund, Bhopal",high,29
+2025,Ganesh,Malikhedi kund,Kund,after,Dissolved oxygen,,mg/l,not sampled,,D.Oxygen,"Maalikhedi visarjan kund, Bhopal",high,29
+2025,Ganesh,Malikhedi kund,Kund,pre,BOD,,mg/l,not sampled,,BOD,"Maalikhedi visarjan kund, Bhopal",high,29
+2025,Ganesh,Malikhedi kund,Kund,during,BOD,5.8,mg/l,,5.8,BOD,"Maalikhedi visarjan kund, Bhopal",high,29
+2025,Ganesh,Malikhedi kund,Kund,after,BOD,,mg/l,not sampled,,BOD,"Maalikhedi visarjan kund, Bhopal",high,29
+2025,Ganesh,Malikhedi kund,Kund,pre,COD,,mg/l,not sampled,,COD,"Maalikhedi visarjan kund, Bhopal",high,29
+2025,Ganesh,Malikhedi kund,Kund,during,COD,39.2,mg/l,,39.2,COD,"Maalikhedi visarjan kund, Bhopal",high,29
+2025,Ganesh,Malikhedi kund,Kund,after,COD,,mg/l,not sampled,,COD,"Maalikhedi visarjan kund, Bhopal",high,29
+2025,Ganesh,Malikhedi kund,Kund,pre,Turbidity,,NTU,not sampled,,Turbidity,"Maalikhedi visarjan kund, Bhopal",high,29
+2025,Ganesh,Malikhedi kund,Kund,during,Turbidity,5.8,NTU,,5.8,Turbidity,"Maalikhedi visarjan kund, Bhopal",high,29
+2025,Ganesh,Malikhedi kund,Kund,after,Turbidity,,NTU,not sampled,,Turbidity,"Maalikhedi visarjan kund, Bhopal",high,29
+2025,Ganesh,Malikhedi kund,Kund,pre,Conductivity,,µS/cm,not sampled,,Conductivity,"Maalikhedi visarjan kund, Bhopal",high,29
+2025,Ganesh,Malikhedi kund,Kund,during,Conductivity,434.0,µS/cm,,434,Conductivity,"Maalikhedi visarjan kund, Bhopal",high,29
+2025,Ganesh,Malikhedi kund,Kund,after,Conductivity,,µS/cm,not sampled,,Conductivity,"Maalikhedi visarjan kund, Bhopal",high,29
+2025,Ganesh,Malikhedi kund,Kund,pre,Chromium,,mg/l,not sampled,,Chromium,"Maalikhedi visarjan kund, Bhopal",high,29
+2025,Ganesh,Malikhedi kund,Kund,during,Chromium,0.03,mg/l,,0.03,Chromium,"Maalikhedi visarjan kund, Bhopal",high,29
+2025,Ganesh,Malikhedi kund,Kund,after,Chromium,,mg/l,not sampled,,Chromium,"Maalikhedi visarjan kund, Bhopal",high,29
+2025,Ganesh,Malikhedi kund,Kund,pre,Lead,,mg/l,not sampled,,Lead,"Maalikhedi visarjan kund, Bhopal",high,29
+2025,Ganesh,Malikhedi kund,Kund,during,Lead,0.031,mg/l,,0.031,Lead,"Maalikhedi visarjan kund, Bhopal",high,29
+2025,Ganesh,Malikhedi kund,Kund,after,Lead,,mg/l,not sampled,,Lead,"Maalikhedi visarjan kund, Bhopal",high,29
+2025,Ganesh,Malikhedi kund,Kund,pre,Zinc,,mg/l,not sampled,,Zinc,"Maalikhedi visarjan kund, Bhopal",high,29
+2025,Ganesh,Malikhedi kund,Kund,during,Zinc,0.022,mg/l,,0.022,Zinc,"Maalikhedi visarjan kund, Bhopal",high,29
+2025,Ganesh,Malikhedi kund,Kund,after,Zinc,,mg/l,not sampled,,Zinc,"Maalikhedi visarjan kund, Bhopal",high,29
+2025,Ganesh,Malikhedi kund,Kund,pre,Copper,,mg/l,not sampled,,Copper,"Maalikhedi visarjan kund, Bhopal",high,29
+2025,Ganesh,Malikhedi kund,Kund,during,Copper,0.018,mg/l,,0.018,Copper,"Maalikhedi visarjan kund, Bhopal",high,29
+2025,Ganesh,Malikhedi kund,Kund,after,Copper,,mg/l,not sampled,,Copper,"Maalikhedi visarjan kund, Bhopal",high,29
+2025,Ganesh,Shahpura lake ghat,Shahpura Lake,pre,pH,7.7,,,7.7,pH,"Murti visarjan ghat at Shahpura ghat, Bhopal",high,30
+2025,Ganesh,Shahpura lake ghat,Shahpura Lake,during,pH,7.82,,,7.82,pH,"Murti visarjan ghat at Shahpura ghat, Bhopal",high,30
+2025,Ganesh,Shahpura lake ghat,Shahpura Lake,after,pH,7.84,,,7.84,pH,"Murti visarjan ghat at Shahpura ghat, Bhopal",high,30
+2025,Ganesh,Shahpura lake ghat,Shahpura Lake,pre,Total solids,432.0,mg/l,,432,Total Solids,"Murti visarjan ghat at Shahpura ghat, Bhopal",high,30
+2025,Ganesh,Shahpura lake ghat,Shahpura Lake,during,Total solids,470.0,mg/l,,470,Total Solids,"Murti visarjan ghat at Shahpura ghat, Bhopal",high,30
+2025,Ganesh,Shahpura lake ghat,Shahpura Lake,after,Total solids,480.0,mg/l,,480,Total Solids,"Murti visarjan ghat at Shahpura ghat, Bhopal",high,30
+2025,Ganesh,Shahpura lake ghat,Shahpura Lake,pre,Dissolved solids,364.0,mg/l,,364,Dissolved Solids,"Murti visarjan ghat at Shahpura ghat, Bhopal",high,30
+2025,Ganesh,Shahpura lake ghat,Shahpura Lake,during,Dissolved solids,348.0,mg/l,,348,Dissolved Solids,"Murti visarjan ghat at Shahpura ghat, Bhopal",high,30
+2025,Ganesh,Shahpura lake ghat,Shahpura Lake,after,Dissolved solids,378.0,mg/l,,378,Dissolved Solids,"Murti visarjan ghat at Shahpura ghat, Bhopal",high,30
+2025,Ganesh,Shahpura lake ghat,Shahpura Lake,pre,Suspended solids,68.0,mg/l,,68,suspended-solids,"Murti visarjan ghat at Shahpura ghat, Bhopal",high,30
+2025,Ganesh,Shahpura lake ghat,Shahpura Lake,during,Suspended solids,122.0,mg/l,,122,suspended-solids,"Murti visarjan ghat at Shahpura ghat, Bhopal",high,30
+2025,Ganesh,Shahpura lake ghat,Shahpura Lake,after,Suspended solids,102.0,mg/l,,102,suspended-solids,"Murti visarjan ghat at Shahpura ghat, Bhopal",high,30
+2025,Ganesh,Shahpura lake ghat,Shahpura Lake,pre,Dissolved oxygen,7.0,mg/l,,7,D.Oxygen,"Murti visarjan ghat at Shahpura ghat, Bhopal",high,30
+2025,Ganesh,Shahpura lake ghat,Shahpura Lake,during,Dissolved oxygen,6.0,mg/l,,6,D.Oxygen,"Murti visarjan ghat at Shahpura ghat, Bhopal",high,30
+2025,Ganesh,Shahpura lake ghat,Shahpura Lake,after,Dissolved oxygen,6.5,mg/l,,6.5,D.Oxygen,"Murti visarjan ghat at Shahpura ghat, Bhopal",high,30
+2025,Ganesh,Shahpura lake ghat,Shahpura Lake,pre,BOD,4.2,mg/l,,4.2,BOD,"Murti visarjan ghat at Shahpura ghat, Bhopal",high,30
+2025,Ganesh,Shahpura lake ghat,Shahpura Lake,during,BOD,5.0,mg/l,,5,BOD,"Murti visarjan ghat at Shahpura ghat, Bhopal",high,30
+2025,Ganesh,Shahpura lake ghat,Shahpura Lake,after,BOD,4.8,mg/l,,4.8,BOD,"Murti visarjan ghat at Shahpura ghat, Bhopal",high,30
+2025,Ganesh,Shahpura lake ghat,Shahpura Lake,pre,COD,29.4,mg/l,,29.4,COD,"Murti visarjan ghat at Shahpura ghat, Bhopal",high,30
+2025,Ganesh,Shahpura lake ghat,Shahpura Lake,during,COD,38.4,mg/l,,38.4,COD,"Murti visarjan ghat at Shahpura ghat, Bhopal",high,30
+2025,Ganesh,Shahpura lake ghat,Shahpura Lake,after,COD,39.2,mg/l,,39.2,COD,"Murti visarjan ghat at Shahpura ghat, Bhopal",high,30
+2025,Ganesh,Shahpura lake ghat,Shahpura Lake,pre,Turbidity,12.5,NTU,,12.5,Turbidity,"Murti visarjan ghat at Shahpura ghat, Bhopal",high,30
+2025,Ganesh,Shahpura lake ghat,Shahpura Lake,during,Turbidity,19.5,NTU,,19.5,Turbidity,"Murti visarjan ghat at Shahpura ghat, Bhopal",high,30
+2025,Ganesh,Shahpura lake ghat,Shahpura Lake,after,Turbidity,20.1,NTU,,20.1,Turbidity,"Murti visarjan ghat at Shahpura ghat, Bhopal",high,30
+2025,Ganesh,Shahpura lake ghat,Shahpura Lake,pre,Conductivity,553.1,µS/cm,,553.1,Conductivity,"Murti visarjan ghat at Shahpura ghat, Bhopal",high,30
+2025,Ganesh,Shahpura lake ghat,Shahpura Lake,during,Conductivity,590.4,µS/cm,,590.4,Conductivity,"Murti visarjan ghat at Shahpura ghat, Bhopal",high,30
+2025,Ganesh,Shahpura lake ghat,Shahpura Lake,after,Conductivity,601.0,µS/cm,,601,Conductivity,"Murti visarjan ghat at Shahpura ghat, Bhopal",high,30
+2025,Ganesh,Shahpura lake ghat,Shahpura Lake,pre,Chromium,0.03,mg/l,,0.03,Chromium,"Murti visarjan ghat at Shahpura ghat, Bhopal",high,30
+2025,Ganesh,Shahpura lake ghat,Shahpura Lake,during,Chromium,0.03,mg/l,,0.03,Chromium,"Murti visarjan ghat at Shahpura ghat, Bhopal",high,30
+2025,Ganesh,Shahpura lake ghat,Shahpura Lake,after,Chromium,0.03,mg/l,,0.03,Chromium,"Murti visarjan ghat at Shahpura ghat, Bhopal",high,30
+2025,Ganesh,Shahpura lake ghat,Shahpura Lake,pre,Lead,0.031,mg/l,,0.031,Lead,"Murti visarjan ghat at Shahpura ghat, Bhopal",high,30
+2025,Ganesh,Shahpura lake ghat,Shahpura Lake,during,Lead,0.031,mg/l,,0.031,Lead,"Murti visarjan ghat at Shahpura ghat, Bhopal",high,30
+2025,Ganesh,Shahpura lake ghat,Shahpura Lake,after,Lead,0.031,mg/l,,0.031,Lead,"Murti visarjan ghat at Shahpura ghat, Bhopal",high,30
+2025,Ganesh,Shahpura lake ghat,Shahpura Lake,pre,Zinc,0.091,mg/l,,0.091,Zinc,"Murti visarjan ghat at Shahpura ghat, Bhopal",high,30
+2025,Ganesh,Shahpura lake ghat,Shahpura Lake,during,Zinc,0.085,mg/l,,0.085,Zinc,"Murti visarjan ghat at Shahpura ghat, Bhopal",high,30
+2025,Ganesh,Shahpura lake ghat,Shahpura Lake,after,Zinc,0.07,mg/l,,0.07,Zinc,"Murti visarjan ghat at Shahpura ghat, Bhopal",high,30
+2025,Ganesh,Shahpura lake ghat,Shahpura Lake,pre,Copper,0.137,mg/l,,0.137,Copper,"Murti visarjan ghat at Shahpura ghat, Bhopal",high,30
+2025,Ganesh,Shahpura lake ghat,Shahpura Lake,during,Copper,0.013,mg/l,,0.013,Copper,"Murti visarjan ghat at Shahpura ghat, Bhopal",high,30
+2025,Ganesh,Shahpura lake ghat,Shahpura Lake,after,Copper,0.13,mg/l,,0.13,Copper,"Murti visarjan ghat at Shahpura ghat, Bhopal",high,30
+2025,Durga,Hathaikheda dam / kund,Hathaikheda dam,pre,pH,8.14,,,8.14,pH,"Hathaikheda dam (ghat), Bhopal",high,64
+2025,Durga,Hathaikheda dam / kund,Hathaikheda dam,during,pH,8.37,,,8.37,pH,"Hathaikheda dam (ghat), Bhopal",high,64
+2025,Durga,Hathaikheda dam / kund,Hathaikheda dam,after,pH,8.44,,,8.44,pH,"Hathaikheda dam (ghat), Bhopal",high,64
+2025,Durga,Hathaikheda dam / kund,Hathaikheda dam,pre,Total solids,380.0,mg/l,,380,Total Solids,"Hathaikheda dam (ghat), Bhopal",high,64
+2025,Durga,Hathaikheda dam / kund,Hathaikheda dam,during,Total solids,430.0,mg/l,,430,Total Solids,"Hathaikheda dam (ghat), Bhopal",high,64
+2025,Durga,Hathaikheda dam / kund,Hathaikheda dam,after,Total solids,384.0,mg/l,,384,Total Solids,"Hathaikheda dam (ghat), Bhopal",high,64
+2025,Durga,Hathaikheda dam / kund,Hathaikheda dam,pre,Dissolved solids,250.0,mg/l,,250,Dissolved Solids,"Hathaikheda dam (ghat), Bhopal",high,64
+2025,Durga,Hathaikheda dam / kund,Hathaikheda dam,during,Dissolved solids,322.0,mg/l,,322,Dissolved Solids,"Hathaikheda dam (ghat), Bhopal",high,64
+2025,Durga,Hathaikheda dam / kund,Hathaikheda dam,after,Dissolved solids,288.0,mg/l,,288,Dissolved Solids,"Hathaikheda dam (ghat), Bhopal",high,64
+2025,Durga,Hathaikheda dam / kund,Hathaikheda dam,pre,Dissolved oxygen,8.5,mg/l,,8.5,D.Oxygen,"Hathaikheda dam (ghat), Bhopal",high,64
+2025,Durga,Hathaikheda dam / kund,Hathaikheda dam,during,Dissolved oxygen,8.5,mg/l,,8.5,D.Oxygen,"Hathaikheda dam (ghat), Bhopal",high,64
+2025,Durga,Hathaikheda dam / kund,Hathaikheda dam,after,Dissolved oxygen,10.8,mg/l,,10.8,D.Oxygen,"Hathaikheda dam (ghat), Bhopal",high,64
+2025,Durga,Hathaikheda dam / kund,Hathaikheda dam,pre,BOD,6.8,mg/l,,6.8,BOD,"Hathaikheda dam (ghat), Bhopal",high,64
+2025,Durga,Hathaikheda dam / kund,Hathaikheda dam,during,BOD,8.0,mg/l,,8,BOD,"Hathaikheda dam (ghat), Bhopal",high,64
+2025,Durga,Hathaikheda dam / kund,Hathaikheda dam,after,BOD,6.4,mg/l,,6.4,BOD,"Hathaikheda dam (ghat), Bhopal",high,64
+2025,Durga,Hathaikheda dam / kund,Hathaikheda dam,pre,COD,38.4,mg/l,,38.4,COD,"Hathaikheda dam (ghat), Bhopal",high,64
+2025,Durga,Hathaikheda dam / kund,Hathaikheda dam,during,COD,40.0,mg/l,,40,COD,"Hathaikheda dam (ghat), Bhopal",high,64
+2025,Durga,Hathaikheda dam / kund,Hathaikheda dam,after,COD,28.8,mg/l,,28.8,COD,"Hathaikheda dam (ghat), Bhopal",high,64
+2025,Durga,Hathaikheda dam / kund,Hathaikheda dam,pre,Turbidity,41.1,NTU,,41.1,Turbidity,"Hathaikheda dam (ghat), Bhopal",high,64
+2025,Durga,Hathaikheda dam / kund,Hathaikheda dam,during,Turbidity,75.2,NTU,,75.2,Turbidity,"Hathaikheda dam (ghat), Bhopal",high,64
+2025,Durga,Hathaikheda dam / kund,Hathaikheda dam,after,Turbidity,46.8,NTU,,46.8,Turbidity,"Hathaikheda dam (ghat), Bhopal",high,64
+2025,Durga,Hathaikheda dam / kund,Hathaikheda dam,pre,Conductivity,399.8,µS/cm,,399.8,Conductivity,"Hathaikheda dam (ghat), Bhopal",high,64
+2025,Durga,Hathaikheda dam / kund,Hathaikheda dam,during,Conductivity,453.8,µS/cm,,453.8,Conductivity,"Hathaikheda dam (ghat), Bhopal",high,64
+2025,Durga,Hathaikheda dam / kund,Hathaikheda dam,after,Conductivity,433.9,µS/cm,,433.9,Conductivity,"Hathaikheda dam (ghat), Bhopal",high,64
+2025,Durga,Hathaikheda dam / kund,Hathaikheda dam,pre,Chromium,0.03,mg/l,,0.03,Chromium,"Hathaikheda dam (ghat), Bhopal",high,64
+2025,Durga,Hathaikheda dam / kund,Hathaikheda dam,during,Chromium,,mg/l,BDL,BDL,Chromium,"Hathaikheda dam (ghat), Bhopal",high,64
+2025,Durga,Hathaikheda dam / kund,Hathaikheda dam,after,Chromium,0.03,mg/l,,0.03,Chromium,"Hathaikheda dam (ghat), Bhopal",high,64
+2025,Durga,Hathaikheda dam / kund,Hathaikheda dam,pre,Lead,0.03,mg/l,,0.03,Lead,"Hathaikheda dam (ghat), Bhopal",high,64
+2025,Durga,Hathaikheda dam / kund,Hathaikheda dam,during,Lead,0.21,mg/l,,0.21,Lead,"Hathaikheda dam (ghat), Bhopal",high,64
+2025,Durga,Hathaikheda dam / kund,Hathaikheda dam,after,Lead,0.03,mg/l,,0.03,Lead,"Hathaikheda dam (ghat), Bhopal",high,64
+2025,Durga,Hathaikheda dam / kund,Hathaikheda dam,pre,Zinc,0.06,mg/l,,0.06,Zinc,"Hathaikheda dam (ghat), Bhopal",high,64
+2025,Durga,Hathaikheda dam / kund,Hathaikheda dam,during,Zinc,0.17,mg/l,,0.17,Zinc,"Hathaikheda dam (ghat), Bhopal",high,64
+2025,Durga,Hathaikheda dam / kund,Hathaikheda dam,after,Zinc,0.06,mg/l,,0.06,Zinc,"Hathaikheda dam (ghat), Bhopal",high,64
+2025,Durga,Hathaikheda dam / kund,Hathaikheda dam,pre,Copper,0.018,mg/l,,0.018,Copper,"Hathaikheda dam (ghat), Bhopal",high,64
+2025,Durga,Hathaikheda dam / kund,Hathaikheda dam,during,Copper,0.28,mg/l,,0.28,Copper,"Hathaikheda dam (ghat), Bhopal",high,64
+2025,Durga,Hathaikheda dam / kund,Hathaikheda dam,after,Copper,0.018,mg/l,,0.018,Copper,"Hathaikheda dam (ghat), Bhopal",high,64
+2025,Durga,Rani Kamlapati ghat / Kamla Park kund,Lower Lake (as printed in Durga tables),pre,pH,7.92,,,7.92,pH,Rani kamlapati visarjan ghat (lower lake),medium,64
+2025,Durga,Rani Kamlapati ghat / Kamla Park kund,Lower Lake (as printed in Durga tables),during,pH,7.85,,,7.85,pH,Rani kamlapati visarjan ghat (lower lake),medium,64
+2025,Durga,Rani Kamlapati ghat / Kamla Park kund,Lower Lake (as printed in Durga tables),after,pH,7.38,,,7.38,pH,Rani kamlapati visarjan ghat (lower lake),medium,64
+2025,Durga,Rani Kamlapati ghat / Kamla Park kund,Lower Lake (as printed in Durga tables),pre,Total solids,438.0,mg/l,,438,Total Solids,Rani kamlapati visarjan ghat (lower lake),medium,64
+2025,Durga,Rani Kamlapati ghat / Kamla Park kund,Lower Lake (as printed in Durga tables),during,Total solids,378.0,mg/l,,378,Total Solids,Rani kamlapati visarjan ghat (lower lake),medium,64
+2025,Durga,Rani Kamlapati ghat / Kamla Park kund,Lower Lake (as printed in Durga tables),after,Total solids,346.0,mg/l,,346,Total Solids,Rani kamlapati visarjan ghat (lower lake),medium,64
+2025,Durga,Rani Kamlapati ghat / Kamla Park kund,Lower Lake (as printed in Durga tables),pre,Dissolved solids,280.0,mg/l,,280,Dissolved Solids,Rani kamlapati visarjan ghat (lower lake),medium,64
+2025,Durga,Rani Kamlapati ghat / Kamla Park kund,Lower Lake (as printed in Durga tables),during,Dissolved solids,328.0,mg/l,,328,Dissolved Solids,Rani kamlapati visarjan ghat (lower lake),medium,64
+2025,Durga,Rani Kamlapati ghat / Kamla Park kund,Lower Lake (as printed in Durga tables),after,Dissolved solids,308.0,mg/l,,308,Dissolved Solids,Rani kamlapati visarjan ghat (lower lake),medium,64
+2025,Durga,Rani Kamlapati ghat / Kamla Park kund,Lower Lake (as printed in Durga tables),pre,Dissolved oxygen,2.5,mg/l,,2.5,D.Oxygen,Rani kamlapati visarjan ghat (lower lake),medium,64
+2025,Durga,Rani Kamlapati ghat / Kamla Park kund,Lower Lake (as printed in Durga tables),during,Dissolved oxygen,2.4,mg/l,,2.4,D.Oxygen,Rani kamlapati visarjan ghat (lower lake),medium,64
+2025,Durga,Rani Kamlapati ghat / Kamla Park kund,Lower Lake (as printed in Durga tables),after,Dissolved oxygen,2.6,mg/l,,2.6,D.Oxygen,Rani kamlapati visarjan ghat (lower lake),medium,64
+2025,Durga,Rani Kamlapati ghat / Kamla Park kund,Lower Lake (as printed in Durga tables),pre,BOD,6.8,mg/l,,6.8,BOD,Rani kamlapati visarjan ghat (lower lake),medium,64
+2025,Durga,Rani Kamlapati ghat / Kamla Park kund,Lower Lake (as printed in Durga tables),during,BOD,8.8,mg/l,,8.8,BOD,Rani kamlapati visarjan ghat (lower lake),medium,64
+2025,Durga,Rani Kamlapati ghat / Kamla Park kund,Lower Lake (as printed in Durga tables),after,BOD,4.8,mg/l,,4.8,BOD,Rani kamlapati visarjan ghat (lower lake),medium,64
+2025,Durga,Rani Kamlapati ghat / Kamla Park kund,Lower Lake (as printed in Durga tables),pre,COD,30.4,mg/l,,30.4,COD,Rani kamlapati visarjan ghat (lower lake),medium,64
+2025,Durga,Rani Kamlapati ghat / Kamla Park kund,Lower Lake (as printed in Durga tables),during,COD,38.0,mg/l,,38,COD,Rani kamlapati visarjan ghat (lower lake),medium,64
+2025,Durga,Rani Kamlapati ghat / Kamla Park kund,Lower Lake (as printed in Durga tables),after,COD,19.2,mg/l,,19.2,COD,Rani kamlapati visarjan ghat (lower lake),medium,64
+2025,Durga,Rani Kamlapati ghat / Kamla Park kund,Lower Lake (as printed in Durga tables),pre,Turbidity,16.2,NTU,,16.2,Turbidity,Rani kamlapati visarjan ghat (lower lake),medium,64
+2025,Durga,Rani Kamlapati ghat / Kamla Park kund,Lower Lake (as printed in Durga tables),during,Turbidity,8.2,NTU,,8.2,Turbidity,Rani kamlapati visarjan ghat (lower lake),medium,64
+2025,Durga,Rani Kamlapati ghat / Kamla Park kund,Lower Lake (as printed in Durga tables),after,Turbidity,7.4,NTU,,7.4,Turbidity,Rani kamlapati visarjan ghat (lower lake),medium,64
+2025,Durga,Rani Kamlapati ghat / Kamla Park kund,Lower Lake (as printed in Durga tables),pre,Conductivity,426.3,µS/cm,,426.3,Conductivity,Rani kamlapati visarjan ghat (lower lake),medium,64
+2025,Durga,Rani Kamlapati ghat / Kamla Park kund,Lower Lake (as printed in Durga tables),during,Conductivity,491.0,µS/cm,,491,Conductivity,Rani kamlapati visarjan ghat (lower lake),medium,64
+2025,Durga,Rani Kamlapati ghat / Kamla Park kund,Lower Lake (as printed in Durga tables),after,Conductivity,476.9,µS/cm,,476.9,Conductivity,Rani kamlapati visarjan ghat (lower lake),medium,64
+2025,Durga,Rani Kamlapati ghat / Kamla Park kund,Lower Lake (as printed in Durga tables),pre,Chromium,0.03,mg/l,,0.03,Chromium,Rani kamlapati visarjan ghat (lower lake),medium,64
+2025,Durga,Rani Kamlapati ghat / Kamla Park kund,Lower Lake (as printed in Durga tables),during,Chromium,,mg/l,BDL,BDL,Chromium,Rani kamlapati visarjan ghat (lower lake),medium,64
+2025,Durga,Rani Kamlapati ghat / Kamla Park kund,Lower Lake (as printed in Durga tables),after,Chromium,0.03,mg/l,,0.03,Chromium,Rani kamlapati visarjan ghat (lower lake),medium,64
+2025,Durga,Rani Kamlapati ghat / Kamla Park kund,Lower Lake (as printed in Durga tables),pre,Lead,0.06,mg/l,,0.06,Lead,Rani kamlapati visarjan ghat (lower lake),medium,64
+2025,Durga,Rani Kamlapati ghat / Kamla Park kund,Lower Lake (as printed in Durga tables),during,Lead,0.09,mg/l,,0.09,Lead,Rani kamlapati visarjan ghat (lower lake),medium,64
+2025,Durga,Rani Kamlapati ghat / Kamla Park kund,Lower Lake (as printed in Durga tables),after,Lead,0.06,mg/l,,0.06,Lead,Rani kamlapati visarjan ghat (lower lake),medium,64
+2025,Durga,Rani Kamlapati ghat / Kamla Park kund,Lower Lake (as printed in Durga tables),pre,Zinc,0.12,mg/l,,0.12,Zinc,Rani kamlapati visarjan ghat (lower lake),medium,64
+2025,Durga,Rani Kamlapati ghat / Kamla Park kund,Lower Lake (as printed in Durga tables),during,Zinc,0.12,mg/l,,0.12,Zinc,Rani kamlapati visarjan ghat (lower lake),medium,64
+2025,Durga,Rani Kamlapati ghat / Kamla Park kund,Lower Lake (as printed in Durga tables),after,Zinc,0.12,mg/l,,0.12,Zinc,Rani kamlapati visarjan ghat (lower lake),medium,64
+2025,Durga,Rani Kamlapati ghat / Kamla Park kund,Lower Lake (as printed in Durga tables),pre,Copper,0.09,mg/l,,0.09,Copper,Rani kamlapati visarjan ghat (lower lake),medium,64
+2025,Durga,Rani Kamlapati ghat / Kamla Park kund,Lower Lake (as printed in Durga tables),during,Copper,0.05,mg/l,,0.05,Copper,Rani kamlapati visarjan ghat (lower lake),medium,64
+2025,Durga,Rani Kamlapati ghat / Kamla Park kund,Lower Lake (as printed in Durga tables),after,Copper,0.09,mg/l,,0.09,Copper,Rani kamlapati visarjan ghat (lower lake),medium,64
+2025,Durga,Khatlapura ghat,Lower Lake,pre,pH,8.17,,,8.17,pH,"Khatlapura visarjan ghat (Lower lake), Bhopal",high,64
+2025,Durga,Khatlapura ghat,Lower Lake,during,pH,7.72,,,7.72,pH,"Khatlapura visarjan ghat (Lower lake), Bhopal",high,64
+2025,Durga,Khatlapura ghat,Lower Lake,after,pH,7.81,,,7.81,pH,"Khatlapura visarjan ghat (Lower lake), Bhopal",high,64
+2025,Durga,Khatlapura ghat,Lower Lake,pre,Total solids,394.0,mg/l,,394,Total Solids,"Khatlapura visarjan ghat (Lower lake), Bhopal",high,64
+2025,Durga,Khatlapura ghat,Lower Lake,during,Total solids,376.0,mg/l,,376,Total Solids,"Khatlapura visarjan ghat (Lower lake), Bhopal",high,64
+2025,Durga,Khatlapura ghat,Lower Lake,after,Total solids,340.0,mg/l,,340,Total Solids,"Khatlapura visarjan ghat (Lower lake), Bhopal",high,64
+2025,Durga,Khatlapura ghat,Lower Lake,pre,Dissolved solids,292.0,mg/l,,292,Dissolved Solids,"Khatlapura visarjan ghat (Lower lake), Bhopal",high,64
+2025,Durga,Khatlapura ghat,Lower Lake,during,Dissolved solids,312.0,mg/l,,312,Dissolved Solids,"Khatlapura visarjan ghat (Lower lake), Bhopal",high,64
+2025,Durga,Khatlapura ghat,Lower Lake,after,Dissolved solids,290.0,mg/l,,290,Dissolved Solids,"Khatlapura visarjan ghat (Lower lake), Bhopal",high,64
+2025,Durga,Khatlapura ghat,Lower Lake,pre,Dissolved oxygen,7.1,mg/l,,7.1,D.Oxygen,"Khatlapura visarjan ghat (Lower lake), Bhopal",high,64
+2025,Durga,Khatlapura ghat,Lower Lake,during,Dissolved oxygen,6.2,mg/l,,6.2,D.Oxygen,"Khatlapura visarjan ghat (Lower lake), Bhopal",high,64
+2025,Durga,Khatlapura ghat,Lower Lake,after,Dissolved oxygen,6.6,mg/l,,6.6,D.Oxygen,"Khatlapura visarjan ghat (Lower lake), Bhopal",high,64
+2025,Durga,Khatlapura ghat,Lower Lake,pre,BOD,4.4,mg/l,,4.4,BOD,"Khatlapura visarjan ghat (Lower lake), Bhopal",high,64
+2025,Durga,Khatlapura ghat,Lower Lake,during,BOD,4.6,mg/l,,4.6,BOD,"Khatlapura visarjan ghat (Lower lake), Bhopal",high,64
+2025,Durga,Khatlapura ghat,Lower Lake,after,BOD,3.1,mg/l,,3.1,BOD,"Khatlapura visarjan ghat (Lower lake), Bhopal",high,64
+2025,Durga,Khatlapura ghat,Lower Lake,pre,COD,19.2,mg/l,,19.2,COD,"Khatlapura visarjan ghat (Lower lake), Bhopal",high,64
+2025,Durga,Khatlapura ghat,Lower Lake,during,COD,40.0,mg/l,,40,COD,"Khatlapura visarjan ghat (Lower lake), Bhopal",high,64
+2025,Durga,Khatlapura ghat,Lower Lake,after,COD,28.8,mg/l,,28.8,COD,"Khatlapura visarjan ghat (Lower lake), Bhopal",high,64
+2025,Durga,Khatlapura ghat,Lower Lake,pre,Turbidity,7.5,NTU,,7.5,Turbidity,"Khatlapura visarjan ghat (Lower lake), Bhopal",high,64
+2025,Durga,Khatlapura ghat,Lower Lake,during,Turbidity,17.8,NTU,,17.8,Turbidity,"Khatlapura visarjan ghat (Lower lake), Bhopal",high,64
+2025,Durga,Khatlapura ghat,Lower Lake,after,Turbidity,8.2,NTU,,8.2,Turbidity,"Khatlapura visarjan ghat (Lower lake), Bhopal",high,64
+2025,Durga,Khatlapura ghat,Lower Lake,pre,Conductivity,460.4,µS/cm,,460.4,Conductivity,"Khatlapura visarjan ghat (Lower lake), Bhopal",high,64
+2025,Durga,Khatlapura ghat,Lower Lake,during,Conductivity,494.7,µS/cm,,494.7,Conductivity,"Khatlapura visarjan ghat (Lower lake), Bhopal",high,64
+2025,Durga,Khatlapura ghat,Lower Lake,after,Conductivity,459.9,µS/cm,,459.9,Conductivity,"Khatlapura visarjan ghat (Lower lake), Bhopal",high,64
+2025,Durga,Khatlapura ghat,Lower Lake,pre,Chromium,0.03,mg/l,,0.03,Chromium,"Khatlapura visarjan ghat (Lower lake), Bhopal",high,64
+2025,Durga,Khatlapura ghat,Lower Lake,during,Chromium,,mg/l,BDL,BDL,Chromium,"Khatlapura visarjan ghat (Lower lake), Bhopal",high,64
+2025,Durga,Khatlapura ghat,Lower Lake,after,Chromium,0.03,mg/l,,0.03,Chromium,"Khatlapura visarjan ghat (Lower lake), Bhopal",high,64
+2025,Durga,Khatlapura ghat,Lower Lake,pre,Lead,0.05,mg/l,,0.05,Lead,"Khatlapura visarjan ghat (Lower lake), Bhopal",high,64
+2025,Durga,Khatlapura ghat,Lower Lake,during,Lead,0.14,mg/l,,0.14,Lead,"Khatlapura visarjan ghat (Lower lake), Bhopal",high,64
+2025,Durga,Khatlapura ghat,Lower Lake,after,Lead,0.05,mg/l,,0.05,Lead,"Khatlapura visarjan ghat (Lower lake), Bhopal",high,64
+2025,Durga,Khatlapura ghat,Lower Lake,pre,Zinc,0.05,mg/l,,0.05,Zinc,"Khatlapura visarjan ghat (Lower lake), Bhopal",high,64
+2025,Durga,Khatlapura ghat,Lower Lake,during,Zinc,0.14,mg/l,,0.14,Zinc,"Khatlapura visarjan ghat (Lower lake), Bhopal",high,64
+2025,Durga,Khatlapura ghat,Lower Lake,after,Zinc,0.05,mg/l,,0.05,Zinc,"Khatlapura visarjan ghat (Lower lake), Bhopal",high,64
+2025,Durga,Khatlapura ghat,Lower Lake,pre,Copper,0.018,mg/l,,0.018,Copper,"Khatlapura visarjan ghat (Lower lake), Bhopal",high,64
+2025,Durga,Khatlapura ghat,Lower Lake,during,Copper,0.16,mg/l,,0.16,Copper,"Khatlapura visarjan ghat (Lower lake), Bhopal",high,64
+2025,Durga,Khatlapura ghat,Lower Lake,after,Copper,0.018,mg/l,,0.018,Copper,"Khatlapura visarjan ghat (Lower lake), Bhopal",high,64
+2025,Durga,Prempura ghat,Upper Lake,pre,pH,8.25,,,8.25,pH,"Prempura ghat, Bhopal",high,65
+2025,Durga,Prempura ghat,Upper Lake,during,pH,8.24,,,8.24,pH,"Prempura ghat, Bhopal",high,65
+2025,Durga,Prempura ghat,Upper Lake,after,pH,8.29,,,8.29,pH,"Prempura ghat, Bhopal",high,65
+2025,Durga,Prempura ghat,Upper Lake,pre,Total solids,246.0,mg/l,,246,Total Solids,"Prempura ghat, Bhopal",high,65
+2025,Durga,Prempura ghat,Upper Lake,during,Total solids,270.0,mg/l,,270,Total Solids,"Prempura ghat, Bhopal",high,65
+2025,Durga,Prempura ghat,Upper Lake,after,Total solids,204.0,mg/l,,204,Total Solids,"Prempura ghat, Bhopal",high,65
+2025,Durga,Prempura ghat,Upper Lake,pre,Dissolved solids,154.0,mg/l,,154,Dissolved Solids,"Prempura ghat, Bhopal",high,65
+2025,Durga,Prempura ghat,Upper Lake,during,Dissolved solids,214.0,mg/l,,214,Dissolved Solids,"Prempura ghat, Bhopal",high,65
+2025,Durga,Prempura ghat,Upper Lake,after,Dissolved solids,162.0,mg/l,,162,Dissolved Solids,"Prempura ghat, Bhopal",high,65
+2025,Durga,Prempura ghat,Upper Lake,pre,Dissolved oxygen,6.6,mg/l,,6.6,D.Oxygen,"Prempura ghat, Bhopal",high,65
+2025,Durga,Prempura ghat,Upper Lake,during,Dissolved oxygen,4.9,mg/l,,4.9,D.Oxygen,"Prempura ghat, Bhopal",high,65
+2025,Durga,Prempura ghat,Upper Lake,after,Dissolved oxygen,8.2,mg/l,,8.2,D.Oxygen,"Prempura ghat, Bhopal",high,65
+2025,Durga,Prempura ghat,Upper Lake,pre,BOD,4.4,mg/l,,4.4,BOD,"Prempura ghat, Bhopal",high,65
+2025,Durga,Prempura ghat,Upper Lake,during,BOD,4.8,mg/l,,4.8,BOD,"Prempura ghat, Bhopal",high,65
+2025,Durga,Prempura ghat,Upper Lake,after,BOD,3.2,mg/l,,3.2,BOD,"Prempura ghat, Bhopal",high,65
+2025,Durga,Prempura ghat,Upper Lake,pre,COD,20.24,mg/l,,20.24,COD,"Prempura ghat, Bhopal",high,65
+2025,Durga,Prempura ghat,Upper Lake,during,COD,40.0,mg/l,,40,COD,"Prempura ghat, Bhopal",high,65
+2025,Durga,Prempura ghat,Upper Lake,after,COD,38.4,mg/l,,38.4,COD,"Prempura ghat, Bhopal",high,65
+2025,Durga,Prempura ghat,Upper Lake,pre,Turbidity,8.9,NTU,,8.9,Turbidity,"Prempura ghat, Bhopal",high,65
+2025,Durga,Prempura ghat,Upper Lake,during,Turbidity,18.3,NTU,,18.3,Turbidity,"Prempura ghat, Bhopal",high,65
+2025,Durga,Prempura ghat,Upper Lake,after,Turbidity,12.9,NTU,,12.9,Turbidity,"Prempura ghat, Bhopal",high,65
+2025,Durga,Prempura ghat,Upper Lake,pre,Conductivity,244.0,µS/cm,,244,Conductivity,"Prempura ghat, Bhopal",high,65
+2025,Durga,Prempura ghat,Upper Lake,during,Conductivity,332.2,µS/cm,,332.2,Conductivity,"Prempura ghat, Bhopal",high,65
+2025,Durga,Prempura ghat,Upper Lake,after,Conductivity,276.5,µS/cm,,276.5,Conductivity,"Prempura ghat, Bhopal",high,65
+2025,Durga,Prempura ghat,Upper Lake,pre,Chromium,0.03,mg/l,,0.03,Chromium,"Prempura ghat, Bhopal",high,65
+2025,Durga,Prempura ghat,Upper Lake,during,Chromium,0.03,mg/l,,0.03,Chromium,"Prempura ghat, Bhopal",high,65
+2025,Durga,Prempura ghat,Upper Lake,after,Chromium,0.03,mg/l,,0.03,Chromium,"Prempura ghat, Bhopal",high,65
+2025,Durga,Prempura ghat,Upper Lake,pre,Lead,0.09,mg/l,,0.09,Lead,"Prempura ghat, Bhopal",high,65
+2025,Durga,Prempura ghat,Upper Lake,during,Lead,0.09,mg/l,,0.09,Lead,"Prempura ghat, Bhopal",high,65
+2025,Durga,Prempura ghat,Upper Lake,after,Lead,0.09,mg/l,,0.09,Lead,"Prempura ghat, Bhopal",high,65
+2025,Durga,Prempura ghat,Upper Lake,pre,Zinc,0.17,mg/l,,0.17,Zinc,"Prempura ghat, Bhopal",high,65
+2025,Durga,Prempura ghat,Upper Lake,during,Zinc,0.17,mg/l,,0.17,Zinc,"Prempura ghat, Bhopal",high,65
+2025,Durga,Prempura ghat,Upper Lake,after,Zinc,0.17,mg/l,,0.17,Zinc,"Prempura ghat, Bhopal",high,65
+2025,Durga,Prempura ghat,Upper Lake,pre,Copper,0.16,mg/l,,0.16,Copper,"Prempura ghat, Bhopal",high,65
+2025,Durga,Prempura ghat,Upper Lake,during,Copper,0.18,mg/l,,0.18,Copper,"Prempura ghat, Bhopal",high,65
+2025,Durga,Prempura ghat,Upper Lake,after,Copper,0.16,mg/l,,0.16,Copper,"Prempura ghat, Bhopal",high,65
+2025,Durga,Shahpura lake ghat,Shahpura Lake,pre,pH,7.88,,,7.88,pH,"Murti-visarjan ghat at Shahpura lake, Bhopal",high,65
+2025,Durga,Shahpura lake ghat,Shahpura Lake,during,pH,7.36,,,7.36,pH,"Murti-visarjan ghat at Shahpura lake, Bhopal",high,65
+2025,Durga,Shahpura lake ghat,Shahpura Lake,after,pH,7.35,,,7.35,pH,"Murti-visarjan ghat at Shahpura lake, Bhopal",high,65
+2025,Durga,Shahpura lake ghat,Shahpura Lake,pre,Total solids,578.0,mg/l,,578,Total Solids,"Murti-visarjan ghat at Shahpura lake, Bhopal",high,65
+2025,Durga,Shahpura lake ghat,Shahpura Lake,during,Total solids,618.0,mg/l,,618,Total Solids,"Murti-visarjan ghat at Shahpura lake, Bhopal",high,65
+2025,Durga,Shahpura lake ghat,Shahpura Lake,after,Total solids,472.0,mg/l,,472,Total Solids,"Murti-visarjan ghat at Shahpura lake, Bhopal",high,65
+2025,Durga,Shahpura lake ghat,Shahpura Lake,pre,Dissolved solids,450.0,mg/l,,450,Dissolved Solids,"Murti-visarjan ghat at Shahpura lake, Bhopal",high,65
+2025,Durga,Shahpura lake ghat,Shahpura Lake,during,Dissolved solids,546.0,mg/l,,546,Dissolved Solids,"Murti-visarjan ghat at Shahpura lake, Bhopal",high,65
+2025,Durga,Shahpura lake ghat,Shahpura Lake,after,Dissolved solids,414.0,mg/l,,414,Dissolved Solids,"Murti-visarjan ghat at Shahpura lake, Bhopal",high,65
+2025,Durga,Shahpura lake ghat,Shahpura Lake,pre,Dissolved oxygen,2.5,mg/l,,2.5,D.Oxygen,"Murti-visarjan ghat at Shahpura lake, Bhopal",high,65
+2025,Durga,Shahpura lake ghat,Shahpura Lake,during,Dissolved oxygen,2.8,mg/l,,2.8,D.Oxygen,"Murti-visarjan ghat at Shahpura lake, Bhopal",high,65
+2025,Durga,Shahpura lake ghat,Shahpura Lake,after,Dissolved oxygen,7.4,mg/l,,7.4,D.Oxygen,"Murti-visarjan ghat at Shahpura lake, Bhopal",high,65
+2025,Durga,Shahpura lake ghat,Shahpura Lake,pre,BOD,6.8,mg/l,,6.8,BOD,"Murti-visarjan ghat at Shahpura lake, Bhopal",high,65
+2025,Durga,Shahpura lake ghat,Shahpura Lake,during,BOD,11.4,mg/l,,11.4,BOD,"Murti-visarjan ghat at Shahpura lake, Bhopal",high,65
+2025,Durga,Shahpura lake ghat,Shahpura Lake,after,BOD,10.4,mg/l,,10.4,BOD,"Murti-visarjan ghat at Shahpura lake, Bhopal",high,65
+2025,Durga,Shahpura lake ghat,Shahpura Lake,pre,COD,38.4,mg/l,,38.4,COD,"Murti-visarjan ghat at Shahpura lake, Bhopal",high,65
+2025,Durga,Shahpura lake ghat,Shahpura Lake,during,COD,70.0,mg/l,,70,COD,"Murti-visarjan ghat at Shahpura lake, Bhopal",high,65
+2025,Durga,Shahpura lake ghat,Shahpura Lake,after,COD,67.2,mg/l,,67.2,COD,"Murti-visarjan ghat at Shahpura lake, Bhopal",high,65
+2025,Durga,Shahpura lake ghat,Shahpura Lake,pre,Turbidity,31.4,NTU,,31.4,Turbidity,"Murti-visarjan ghat at Shahpura lake, Bhopal",high,65
+2025,Durga,Shahpura lake ghat,Shahpura Lake,during,Turbidity,30.2,NTU,,30.2,Turbidity,"Murti-visarjan ghat at Shahpura lake, Bhopal",high,65
+2025,Durga,Shahpura lake ghat,Shahpura Lake,after,Turbidity,19.4,NTU,,19.4,Turbidity,"Murti-visarjan ghat at Shahpura lake, Bhopal",high,65
+2025,Durga,Shahpura lake ghat,Shahpura Lake,pre,Conductivity,655.6,µS/cm,,655.6,Conductivity,"Murti-visarjan ghat at Shahpura lake, Bhopal",high,65
+2025,Durga,Shahpura lake ghat,Shahpura Lake,during,Conductivity,783.9,µS/cm,,783.9,Conductivity,"Murti-visarjan ghat at Shahpura lake, Bhopal",high,65
+2025,Durga,Shahpura lake ghat,Shahpura Lake,after,Conductivity,656.3,µS/cm,,656.3,Conductivity,"Murti-visarjan ghat at Shahpura lake, Bhopal",high,65
+2025,Durga,Shahpura lake ghat,Shahpura Lake,pre,Chromium,0.03,mg/l,,0.03,Chromium,"Murti-visarjan ghat at Shahpura lake, Bhopal",high,65
+2025,Durga,Shahpura lake ghat,Shahpura Lake,during,Chromium,0.03,mg/l,,0.03,Chromium,"Murti-visarjan ghat at Shahpura lake, Bhopal",high,65
+2025,Durga,Shahpura lake ghat,Shahpura Lake,after,Chromium,0.03,mg/l,,0.03,Chromium,"Murti-visarjan ghat at Shahpura lake, Bhopal",high,65
+2025,Durga,Shahpura lake ghat,Shahpura Lake,pre,Lead,0.06,mg/l,,0.06,Lead,"Murti-visarjan ghat at Shahpura lake, Bhopal",high,65
+2025,Durga,Shahpura lake ghat,Shahpura Lake,during,Lead,0.07,mg/l,,0.07,Lead,"Murti-visarjan ghat at Shahpura lake, Bhopal",high,65
+2025,Durga,Shahpura lake ghat,Shahpura Lake,after,Lead,0.06,mg/l,,0.06,Lead,"Murti-visarjan ghat at Shahpura lake, Bhopal",high,65
+2025,Durga,Shahpura lake ghat,Shahpura Lake,pre,Zinc,0.6,mg/l,,0.6,Zinc,"Murti-visarjan ghat at Shahpura lake, Bhopal",high,65
+2025,Durga,Shahpura lake ghat,Shahpura Lake,during,Zinc,0.03,mg/l,,0.03,Zinc,"Murti-visarjan ghat at Shahpura lake, Bhopal",high,65
+2025,Durga,Shahpura lake ghat,Shahpura Lake,after,Zinc,0.6,mg/l,,0.6,Zinc,"Murti-visarjan ghat at Shahpura lake, Bhopal",high,65
+2025,Durga,Shahpura lake ghat,Shahpura Lake,pre,Copper,0.018,mg/l,,0.018,Copper,"Murti-visarjan ghat at Shahpura lake, Bhopal",high,65
+2025,Durga,Shahpura lake ghat,Shahpura Lake,during,Copper,0.018,mg/l,,0.018,Copper,"Murti-visarjan ghat at Shahpura lake, Bhopal",high,65
+2025,Durga,Shahpura lake ghat,Shahpura Lake,after,Copper,0.018,mg/l,,0.018,Copper,"Murti-visarjan ghat at Shahpura lake, Bhopal",high,65

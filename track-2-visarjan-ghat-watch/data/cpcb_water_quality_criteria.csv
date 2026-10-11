@@ -1,0 +1,20 @@
+class,designated_best_use,parameter,limit_type,limit,unit
+A,Drinking water source without conventional treatment but after disinfection,Total coliform,max,50,MPN/100 ml
+A,Drinking water source without conventional treatment but after disinfection,pH,range,6.5-8.5,
+A,Drinking water source without conventional treatment but after disinfection,Dissolved oxygen,min,6,mg/l
+A,Drinking water source without conventional treatment but after disinfection,BOD (5 days 20C),max,2,mg/l
+B,Outdoor bathing (organised),Total coliform,max,500,MPN/100 ml
+B,Outdoor bathing (organised),pH,range,6.5-8.5,
+B,Outdoor bathing (organised),Dissolved oxygen,min,5,mg/l
+B,Outdoor bathing (organised),BOD (5 days 20C),max,3,mg/l
+C,Drinking water source after conventional treatment and disinfection,Total coliform,max,5000,MPN/100 ml
+C,Drinking water source after conventional treatment and disinfection,pH,range,6-9,
+C,Drinking water source after conventional treatment and disinfection,Dissolved oxygen,min,4,mg/l
+C,Drinking water source after conventional treatment and disinfection,BOD (5 days 20C),max,3,mg/l
+D,Propagation of wildlife and fisheries,pH,range,6.5-8.5,
+D,Propagation of wildlife and fisheries,Dissolved oxygen,min,4,mg/l
+D,Propagation of wildlife and fisheries,Free ammonia (as N),max,1.2,mg/l
+E,Irrigation industrial cooling controlled waste disposal,pH,range,6.0-8.5,
+E,Irrigation industrial cooling controlled waste disposal,Electrical conductivity at 25C,max,2250,micromhos/cm
+E,Irrigation industrial cooling controlled waste disposal,Sodium absorption ratio,max,26,
+E,Irrigation industrial cooling controlled waste disposal,Boron,max,2,mg/l
