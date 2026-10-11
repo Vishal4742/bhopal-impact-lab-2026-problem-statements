@@ -115,7 +115,7 @@ Hard deadline: 5:00 PM, Sunday 11 October 2026. Late submissions are not judged.
 1. **A public GitHub repo link.** Required.
 2. **A screen recording of 2 minutes or less.** Optional, but strongly advised. Record it at 4:00 PM, when the room reminder goes out. A demo that fails live still counts if the recording works.
 
-Submit both through the submission link shared in the group.
+Submit both through the submission form: https://docs.google.com/forms/d/e/1FAIpQLSfKNgfbYvYMI6xHgS0ir4kBhZWspGp37hIzbt9PhB-ZfK70vQ/viewform
 
 Your repo must contain:
 
