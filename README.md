@@ -166,8 +166,3 @@ track-2-visarjan-ghat-watch/
 | 39 | [SankatGhat](SUBMISSIONS.md#track2-39) | **SankatGhat**<br>Abhijeet Vishnu Kanase, Sujal Jaiswal, Yash Devani, Krishnakant Raut | [Live](https://sankatghat.freebuff.app/brief) |
 | 40 | [Green Visarjan](SUBMISSIONS.md#track2-40) | **track_hawk**<br>Viraj Kaushik, Parth Dubey, Shaket Raj | [Code](https://github.com/shaketraj156-ops/green-Visargan) · [Live](https://greenvisarjan.up.railway.app/) · [Demo](https://drive.google.com/open?id=1e2lgH4TXW9Jw0fdVtERde6R8TffRIqkO) |
 
-## Credits
-
-The data files and source PDFs come from the participant pack at https://github.com/Laaaaksh/bhopal-impact-lab-2026, prepared by Laksh Sadhwani.
-
-Organisers: Aniket Sahu (Claude Community Ambassador) and Arun Pratap Singh Chandel (Cerebras Community Ambassador).
