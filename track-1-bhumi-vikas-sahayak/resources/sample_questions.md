@@ -1,6 +1,6 @@
 # Sample questions for testing
 
-Real questions a clerk at the Bhopal Municipal Corporation building-permission counter hears. Answers are not given here. Find each one in the rules, note the rule number, and use the set to measure your tool.
+Questions of the kind a clerk at the Bhopal Municipal Corporation building-permission counter hears. Teams used the set to measure how often their tool was right. Answers are not given here; each one has to be found in the rules, with its rule number.
 
 Some questions have no answer in the rules. A good tool says so.
 
@@ -25,7 +25,7 @@ Some questions have no answer in the rules. A good tool says so.
 14. मेरा प्लॉट 200 वर्ग मीटर का है और सामने 9 मीटर चौड़ी सड़क है। आगे कितनी जगह खाली छोड़नी होगी?
 15. बिल्डिंग परमिशन की फीस कितनी है और किस नियम में लिखी है?
 
-## Outside the rules (your tool should say "not found")
+## Outside the rules (a good tool says "not found")
 
 16. How do I pay my property tax online?
 17. What is the current market rate for land in Kolar Road, Bhopal?

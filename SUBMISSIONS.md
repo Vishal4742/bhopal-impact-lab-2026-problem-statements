@@ -468,7 +468,7 @@ Water quality reports from Bhopal's idol immersion ghats contain important pollu
 
 ### 21. Jail Drishti
 
-**Team:** Codebloom (Nimit Sharma, Ashish Meena, Ananya Kishore, Astha Gupta) · [Code](https://github.com/NimitSharma869/Oct-2026-Claude-Community-Bhopal) · [Live](https://jaldrishti-lyart.vercal.app) · [Demo](https://drive.google.com/open?id=1ByGX5JThdf5-VWudDS4zgora3JO8IPug)
+**Team:** Codebloom (Nimit Sharma, Ashish Meena, Ananya Kishore, Astha Gupta) · [Code](https://github.com/NimitSharma869/Oct-2026-Claude-Community-Bhopal) · [Live](https://jaldrishti-lyart.vercel.app) · [Demo](https://drive.google.com/open?id=1ByGX5JThdf5-VWudDS4zgora3JO8IPug)
 
 Difficulty in parsing and filtering through large amounts of data
 

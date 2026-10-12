@@ -1,42 +1,46 @@
-# Bhopal Impact Lab 2026: problem statements and data
+# Bhopal Impact Lab 2026: problem statements, data and submissions
 
 Claude Impact Lab Bhopal · Sunday 11 October 2026 · SSR Global Skills Park
 
-Today you build a working tool for a real Bhopal problem, in one day, with Claude and Claude Code. Everything you build is open source and offered to the Government of Madhya Pradesh through MPSeDC.
+Claude Impact Lab Bhopal was a one-day build event. Teams had from 10:15 AM to 5:00 PM to build a working tool for a real Bhopal problem with Claude and Claude Code. The projects are open source, and the work is offered to the Government of Madhya Pradesh through MPSeDC.
 
-This repo has both problem statements, the data for each track, the original source documents and all the links.
+This repo holds the two problem statements, the data and source documents given to teams, and the list of projects they submitted.
+
+## At a glance
+
+- **1,491** people registered and **303** checked in on the day.
+- **2** tracks, each built around one real user in Bhopal.
+- **66** projects submitted: 26 on Track 1 and 40 on Track 2.
 
 ## The two tracks
 
 | | Track 1: Bhumi Vikas Sahayak | Track 2: Visarjan Ghat Watch |
 |---|---|---|
 | In one line | Ask the Bhopal building rulebook and get an answer with the rule number | Turn three years of ghat water tests into a risk warning before Durga visarjan |
-| User | Building-permission clerk, Bhopal Municipal Corporation | BMC officer planning Durga visarjan at the ghats |
+| Built for | Building-permission clerk, Bhopal Municipal Corporation | BMC officer planning Durga visarjan at the ghats |
 | Data | 105 rules from the MP Bhumi Vikas Rules 2012, split and page-referenced | 1,524 water-test readings at 7 Bhopal ghats, 2023 to 2025 |
-| Problem statement | [Read it](track-1-bhumi-vikas-sahayak/PROBLEM-STATEMENT.md) · [PDF](track-1-bhumi-vikas-sahayak/Track%201%20-%20Bhumi%20Vikas%20Sahayak%20-%20Participant%20guide.pdf) | [Read it](track-2-visarjan-ghat-watch/PROBLEM-STATEMENT.md) · [PDF](track-2-visarjan-ghat-watch/Track%202%20-%20Visarjan%20Ghat%20Watch%20-%20Participant%20guide.pdf) |
+| Problem statement | [Read it](track-1-bhumi-vikas-sahayak/PROBLEM-STATEMENT.md) · [PDF](track-1-bhumi-vikas-sahayak/Track%201%20-%20Bhumi%20Vikas%20Sahayak%20-%20Problem%20statement.pdf) | [Read it](track-2-visarjan-ghat-watch/PROBLEM-STATEMENT.md) · [PDF](track-2-visarjan-ghat-watch/Track%202%20-%20Visarjan%20Ghat%20Watch%20-%20Problem%20statement.pdf) |
 
-Pick one track with your team at the opening
+## How the day worked
 
-## Key times
-
-- Build starts at 10:15 AM. Code you submit must be written after that.
-- Submissions close at 5:00 PM.
-
-**Submit here:** https://docs.google.com/forms/d/e/1FAIpQLSfKNgfbYvYMI6xHgS0ir4kBhZWspGp37hIzbt9PhB-ZfK70vQ/viewform
-
-Submit your public GitHub repo link and, if you have one, your 2-minute screen recording.
+- Each team picked one track at the opening.
+- Building started at 10:15 AM. Submitted code had to be written after that.
+- Teams submitted a public GitHub repo and, optionally, a screen recording of up to 2 minutes through a Google Form. Submissions were due at 5:00 PM.
+- The jury reviewed the submissions and picked the teams to present. Each criterion was scored 0 to 5: day-one impact (counted twice), product, idea and clarity of demo, for a maximum of 25. The full rules and rubric are in each problem statement.
 
 ## What's in this repo
 
 ```
+README.md                    this page, with the list of submitted projects
+SUBMISSIONS.md               each team's problem statement, in their own words
 track-1-bhumi-vikas-sahayak/
-  PROBLEM-STATEMENT.md       the problem statement and guide
-  Track 1 ... guide.pdf      the same, as a PDF
+  PROBLEM-STATEMENT.md       the problem, the data, the rules of the day and the judging
+  Track 1 ... statement.pdf  the same, as a PDF
   data/                      rules as JSONL (full and sample), full text by page, data dictionary
   resources/                 official English and Hindi PDFs of the rules, sample questions
 track-2-visarjan-ghat-watch/
-  PROBLEM-STATEMENT.md       the problem statement and guide
-  Track 2 ... guide.pdf      the same, as a PDF
+  PROBLEM-STATEMENT.md       the problem, the data, the rules of the day and the judging
+  Track 2 ... statement.pdf  the same, as a PDF
   data/                      Bhopal ghat readings, 2025 sample, statewide readings, CPCB limits, data dictionary
   resources/                 MPPCB visarjan reports 2023 to 2025 and lake water-quality reports
 ```
@@ -50,20 +54,20 @@ track-2-visarjan-ghat-watch/
 | `data/bhumi_vikas_rules.jsonl` | 106 lines | All 105 rules plus rule 26-B, with rule number, title, part, PDF page range and full text |
 | `data/bhumi_vikas_rules_sample.jsonl` | 5 lines | Rules 12, 17, 23, 52 and 56, for quick tests |
 | `data/bhumi_vikas_rules_fulltext_by_page.txt` | 108 pages | The whole English text, marked page by page |
-| `data/DATA_DICTIONARY.md` | | What every field means |
+| `data/DATA_DICTIONARY.md` | | What every field means, and known errors in the files |
 | `resources/MP_Bhumi_Vikas_Rules_2012_upto_2025-03-06_EN.pdf` | 108 pages | Official English PDF (source of truth) |
 | `resources/MP_Bhumi_Vikas_Rules_2012_upto_2025-03-06_HI.pdf` | 108 pages | Official Hindi PDF |
-| `resources/sample_questions.md` | 17 questions | Questions to test your tool with |
+| `resources/sample_questions.md` | 17 questions | Test questions, including two the rules don't answer |
 
 **Track 2**
 
 | File | Rows | What it holds |
 |---|---|---|
-| `data/bhopal_ghats_2023_2025.csv` | 1,524 | Every reading at 7 Bhopal ghats, 2023 to 2025. Start here |
-| `data/sample_bhopal_2025.csv` | 453 | The 2025 rows, for quick testing |
-| `data/mp_immersion_sites_2023_2025.csv` | 21,600 | The same tests across MP. Use as background |
+| `data/bhopal_ghats_2023_2025.csv` | 1,524 | Every reading at 7 Bhopal ghats, 2023 to 2025. The main dataset |
+| `data/sample_bhopal_2025.csv` | 453 | The 2025 rows only |
+| `data/mp_immersion_sites_2023_2025.csv` | 21,600 | The same tests at about 100 sites per festival across Madhya Pradesh, for wider context |
 | `data/cpcb_water_quality_criteria.csv` | 19 | Official CPCB limits, classes A to E |
-| `data/DATA_DICTIONARY.md` | | Columns, codes, units and the 7 ghats |
+| `data/DATA_DICTIONARY.md` | | Columns, codes, units, the 7 ghats and known issues |
 | `resources/` | 6 PDFs | MPPCB reports 2023, 2024, 2025 and Upper / Lower Lake water-quality reports |
 
 ## Sources
@@ -88,7 +92,7 @@ track-2-visarjan-ghat-watch/
 
 ## Submissions
 
-66 teams submitted: 26 on Track 1 and 40 on Track 2. Each team's problem statement is in [SUBMISSIONS.md](SUBMISSIONS.md).
+66 teams submitted: 26 on Track 1 and 40 on Track 2. Each project name links to the team's own description of the problem in [SUBMISSIONS.md](SUBMISSIONS.md).
 
 ### Track 1: Bhumi Vikas Sahayak
 
@@ -145,7 +149,7 @@ track-2-visarjan-ghat-watch/
 | 18 | [Bhopal Jal Drishti](SUBMISSIONS.md#track2-18) | **Wingy-Pari-Tosh**<br>Pratham Prajapati | [Code](https://github.com/Pratham1-hue/bhopal_jal_drishti) · [Live](https://bhopal-jal-drishti.onrender.com/) · [Demo](https://drive.google.com/open?id=1PsYQZh5Ah1KbT9ccSI_8TVN_1TTxLLMU) |
 | 19 | [Visarjan Ghat Watch](SUBMISSIONS.md#track2-19) | **Team innovators**<br>UTTAM PANDEY, UTTAM CHAURASIA, AYUSH SHAH, FAIZAN SIDDIQUI | [Code](https://github.com/uttampandeyy987-gif/visarjan-ghat-watch) · [Live](https://visarjan-ghat-watch-flax.vercel.app/) |
 | 20 | [Water-Quality-Overview](SUBMISSIONS.md#track2-20) | **NeerWatch**<br>Arpit Kumar Thakur, Chandan kumar, Muskan Goswami, Khushali kolhe | [Code](https://github.com/Arpit2005hub/Water-Quality-Overview) · [Live](https://water-quality-zk0i.onrender.com) |
-| 21 | [Jail Drishti](SUBMISSIONS.md#track2-21) | **Codebloom**<br>Nimit Sharma, Ashish Meena, Ananya Kishore, Astha Gupta | [Code](https://github.com/NimitSharma869/Oct-2026-Claude-Community-Bhopal) · [Live](https://jaldrishti-lyart.vercal.app) · [Demo](https://drive.google.com/open?id=1ByGX5JThdf5-VWudDS4zgora3JO8IPug) |
+| 21 | [Jail Drishti](SUBMISSIONS.md#track2-21) | **Codebloom**<br>Nimit Sharma, Ashish Meena, Ananya Kishore, Astha Gupta | [Code](https://github.com/NimitSharma869/Oct-2026-Claude-Community-Bhopal) · [Live](https://jaldrishti-lyart.vercel.app) · [Demo](https://drive.google.com/open?id=1ByGX5JThdf5-VWudDS4zgora3JO8IPug) |
 | 22 | [Visarjan Ghat Watch](SUBMISSIONS.md#track2-22) | **NeerRakshak**<br>Anoop Shukla | [Code](https://github.com/AnoopShukla-ProjectWorld/claude-community-bhopal/tree/main/track-2-visarjan-ghat-watch/Track2-Visarjanghat-Prj) · [Live](https://visarjan-ghat-watch-iota.vercel.app/) |
 | 23 | [GHATPULSE-MP](SUBMISSIONS.md#track2-23) | **Parakram**<br>Deepesh pankaj, Himanshu Maurya, Adil rahman, Tanishka gupta | [Code](https://github.com/adilrehman786/ghatpulse-mp) · [Live](https://ghatpulse-mp.vercel.app/) · [Demo](https://drive.google.com/open?id=1xgcvaa8bPq6HkkLZaRk72zGoUBc-Nfoh) |
 | 24 | [Ghat Pehredaar](SUBMISSIONS.md#track2-24) | **https://bhumi-vikas.onrender.com**<br>Avi Singh | [Code](https://github.com/avisinghdotdev/GhatPehredaar) · [Live](https://ca-ghatpehredaar-prod.redisland-50f365ba.centralindia.azurecontainerapps.io) |

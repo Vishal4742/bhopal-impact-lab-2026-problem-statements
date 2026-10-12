@@ -6,7 +6,7 @@
 |---|---|---|
 | `bhopal_ghats_2023_2025.csv` | 1,524 | Every reading at 7 Bhopal ghats. 2023, 2024, 2025. Ganesh and Durga. **Start here** |
 | `sample_bhopal_2025.csv` | 453 | The 2025 rows of the file above |
-| `mp_immersion_sites_2023_2025.csv` | 21,600 | Same tests for about 200 sites across MP. Less checked |
+| `mp_immersion_sites_2023_2025.csv` | 21,600 | Same tests for about 100 sites per festival across MP. Less checked |
 | `cpcb_water_quality_criteria.csv` | 19 | Official CPCB limits for water classes A to E |
 
 ## Columns in the immersion CSVs
@@ -40,37 +40,37 @@
 | COD | mg/l | Chemical oxygen demand. Total pollution that uses oxygen | none set |
 | Total solids | mg/l | Everything left after the water dries | none set |
 | Dissolved solids | mg/l | Solids dissolved in the water | none set |
-| Suspended solids | mg/l | Particles floating in the water. Not tested in every year | none set |
+| Suspended solids | mg/l | Particles floating in the water. Not in the Durga 2023 and Durga 2025 tables | none set |
 | Turbidity | NTU | Cloudiness | none set |
 | Conductivity | µS/cm | Dissolved salts. Class E caps it at 2,250 | none set for B |
 | Chromium, Lead, Zinc, Copper | mg/l | Heavy metals, often from idol paint | none set for B |
 
-## Codes you will see
+## Codes in the data
 
 | Code | Meaning | How to treat it |
 |---|---|---|
 | `BDL` | Below detection limit | Very low. Not zero, not missing |
 | `ND` | Not detected | Very low |
-| `not sampled` | Blank cell, `_` or `-` in the report | Missing. Never treat as clean |
+| `not sampled` | Blank cell, `_` or `-` in the report | Missing. Never clean |
 | `*`, `**` | Not sampled at that stage | Missing |
 
 ## The 7 Bhopal ghats
 
 | Standard name | Water body | Confidence | Note |
 |---|---|---|---|
-| Bairagarh (Sant Hirdaram) kund | Upper Lake | high | No Durga 2025 table in the report |
+| Bairagarh (Sant Hirdaram) kund | Upper Lake | high | A temporary kund. Its conductivity is far above the Upper Lake's, so its readings are tank water, not lake water. No Durga 2025 table in the report |
 | Khatlapura ghat | Lower Lake | high | |
 | Prempura ghat | Upper Lake | high | |
 | Rani Kamlapati ghat / Kamla Park kund | Lower Lake | **medium** | Ganesh tables say "Kamla Park kund", Durga tables say "Lower Lake ghat". May be two places |
-| Hathaikheda dam / kund | Hathaikheda dam | high | |
+| Hathaikheda dam / kund | Hathaikheda dam | high | Ganesh tables say "visarjan kund", Durga tables say "dam (ghat)". May be two places |
 | Malikhedi kund | Kund | high | No Durga 2025 table in the report |
 | Shahpura lake ghat | Shahpura Lake | high | |
 
 ## How these files were made, and how far to trust them
 
-- `tools/parse_visarjan.py` reads `pdftotext -layout` output of each report and turns every table into rows.
-- The Bhopal file was **spot-checked**: six tables across all three years were compared number by number with the PDF text, and all matched.
-- The statewide file uses the same parser but was **not** checked table by table. 879 rows carry `needs_check` because the site name could not be read. Some tables run across two pages and appear twice with different `source_page` values.
+- A parser read `pdftotext -layout` output of each report and turned every table into rows.
+- The Bhopal file was checked against the PDFs. All 1,524 values match.
+- The statewide file uses the same parser but was **not** checked table by table. 879 rows carry `needs_check` because the site name could not be read. About 825 more rows also have bad site names, such as "UNKNOWN" or a page footer, without the mark. 12 tables run across two pages; none of them is duplicated.
 - **Units are assumed.** The reports print none. The units above are the standard ones for these tests.
 
 ## Sources
@@ -82,7 +82,7 @@
 | MPPCB Idol Immersion Report 2023, CPCB format (87 pages) | https://www.mppcb.mp.gov.in/proc/mon/Idol_immer._Report_23_CPCB.pdf | 10 Oct 2026 |
 | Upper and Lower Lake monthly water quality 2025-26 | https://xgn.mp.nic.in/File_Upload/MONITORING//Yearly%20Water%20Quality%20Status/2026/July/UPPER%20LAKE-2025-26..pdf | 10 Oct 2026 |
 | Upper Lake water quality 2023-24 | https://www.mppcb.mp.gov.in/proc/mon/Bhopal-2023-24_upper_lake.pdf | 10 Oct 2026 |
-| Upper and Lower Lake comparison 2003 to 2023 | https://www.mppcb.mp.gov.in/proc/mon/comparatives-uppe-lak-lower-lake-2003-2023.pdf | 10 Oct 2026 |
+| Upper Lake water quality by station, 2003-04 to 2022-23 | https://www.mppcb.mp.gov.in/proc/mon/comparatives-uppe-lak-lower-lake-2003-2023.pdf | 10 Oct 2026 |
 | CPCB water quality criteria | https://cpcb.gov.in/water-quality-criteria/ | read 10 Oct 2026 |
 
 No file in this folder holds personal data.
