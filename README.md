@@ -8,7 +8,6 @@ This repo holds the two problem statements, the data and source documents given 
 
 ## At a glance
 
-- **1,491** people registered and **303** checked in on the day.
 - **2** tracks, each built around one real user in Bhopal.
 - **66** projects submitted: 26 on Track 1 and 40 on Track 2.
 

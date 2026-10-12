@@ -76,7 +76,7 @@ These were ideas, not instructions. Teams chose their own approach.
 ## Rules of the day
 
 1. **No pre-work.** Submitted code had to be written from 10:15 AM on the day. Libraries, frameworks and a team's own general tools were allowed.
-2. **Any tools.** Teams could use Claude, Claude Code, Cerebras inference APIs or anything else that fit.
+2. **Any tools.** Teams could use Claude, Claude Code or anything else that fit.
 3. **The data in this pack.** Teams could add other public data, named and linked in their README.
 4. **No live government systems.** No logging in to, scraping or writing to any government portal during the build.
 5. **No personal data.** The data here has none.
