@@ -1,6 +1,6 @@
 # Bhopal Impact Lab 2026: problem statements and data
 
-Claude Impact Lab × Cerebras Café Compute, Bhopal · Sunday 11 October 2026 · SSR Global Skills Park
+Claude Impact Lab Bhopal · Sunday 11 October 2026 · SSR Global Skills Park
 
 Today you build a working tool for a real Bhopal problem, in one day, with Claude and Claude Code. Everything you build is open source and offered to the Government of Madhya Pradesh through MPSeDC.
 
